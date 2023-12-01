@@ -190,7 +190,7 @@ MyBlog_Bullets.forEach((ele) => {
   chooseItem(ele);
 });
 let BlogsDiv = [];
-fetch(`../jsonFolders/blogs.json`)
+fetch("js/blogs.json")
   .then((response) => response.json())
   .then((blogs) => {
     blogs.forEach((ele, index) => {
