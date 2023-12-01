@@ -1,2 +1,2 @@
 # OB_Graduation-Project
-My Graduation project with my friend basel khial
+My Graduation project with my friend Osama Elhenawey
