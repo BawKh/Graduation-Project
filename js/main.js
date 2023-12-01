@@ -49,13 +49,15 @@ const btnRight = document.querySelector(".slider__btn--right");
 
 let curSlide = 0;
 let maxSlide = slides.length;
-slider.addEventListener("click", function (e) {
-  const clicks = e.target.classList.contains("slider__btn");
+if (slider) {
+  slider.addEventListener("click", function (e) {
+    const clicks = e.target.classList.contains("slider__btn");
 
-  if (!clicks) return;
-  if (clicks) {
-  }
-});
+    if (!clicks) return;
+    if (clicks) {
+    }
+  });
+}
 slides.forEach((el, i) => {
   el.style.transform = `translateX(${100 * i}%)`;
 });
@@ -73,7 +75,7 @@ const nextSlide = function () {
     curSlide++;
   }
   goToSlide(curSlide);
-  activeDot(curSlide);
+  // activeDot(curSlide);
 };
 const prevSlide = function () {
   if (curSlide === 0) {
@@ -82,16 +84,19 @@ const prevSlide = function () {
     curSlide--;
   }
   goToSlide(curSlide);
-  activeDot(curSlide);
+  // activeDot(curSlide);
 };
-btnRight.addEventListener("click", nextSlide);
+if (btnRight || btnLeft) {
+  btnRight.addEventListener("click", nextSlide);
 
-btnLeft.addEventListener("click", prevSlide);
+  btnLeft.addEventListener("click", prevSlide);
+}
 
 document.addEventListener("keydown", function (e) {
   if (e.key == "ArrowLeft") prevSlide();
   if (e.key == "ArrowRight") nextSlide();
 });
+
 /* top catagories */
 
 let leftButt = document.querySelector(".catagories-sec .left");
@@ -101,7 +106,7 @@ let CatBullets = document.querySelectorAll(
 );
 let CatContainer = document.querySelector(".catagories-sec .cat-body ");
 let catCount = 0;
-function Slider_Cat() {
+function Slider_Cat(eleNum) {
   let step = 0;
   leftButt.addEventListener("click", () => {
     let me = Math.ceil(CatContainer.offsetWidth / 9);
@@ -111,7 +116,7 @@ function Slider_Cat() {
     );
 
     if (
-      catagoriesCon.length - catCount >= 6 &&
+      catagoriesCon.length - catCount >= eleNum &&
       catagoriesCon.length - catCount < catagoriesCon.length
     ) {
       step += me;
@@ -123,6 +128,7 @@ function Slider_Cat() {
     if (catagoriesCon.length - catCount == catagoriesCon.length) {
       leftButt.classList.add("stope");
     }
+    console.log(step);
   });
   rightButt.addEventListener("click", () => {
     let me = Math.ceil(CatContainer.offsetWidth / 9);
@@ -130,19 +136,23 @@ function Slider_Cat() {
     let catagoriesCon = document.querySelectorAll(
       ".catagories-sec .cat-body .box"
     );
-    if (catagoriesCon.length - catCount > 6) {
+    if (catagoriesCon.length - catCount > eleNum) {
       step -= me;
       CatContainer.style.transform = `translateX(${step}px)`;
       catCount++;
       spanSlide(catCount);
     }
-    console.log(catCount);
-    if (catagoriesCon.length - catCount == 6) {
+    // console.log(catCount);
+    if (catagoriesCon.length - catCount == eleNum) {
       rightButt.classList.add("stope");
     }
+    console.log(step);
   });
 }
-Slider_Cat();
+if (leftButt || rightButt) {
+  Slider_Cat(6);
+}
+
 function spanSlide(catCount) {
   CatBullets.forEach((el, index) => {
     if (index == catCount) {
@@ -151,33 +161,75 @@ function spanSlide(catCount) {
     }
   });
 }
+// document.body.onresize = function () {
+//   CatContainer.style.width = `calc((((${CatContainer.offsetWidth}px + 20px) / 5) * 3) + ${CatContainer.offsetWidth}px)`;
+//   let catagoriesCon = document.querySelectorAll(
+//     ".catagories-sec .cat-body .box"
+//   );
+//   catagoriesCon.style.width =
+//     "calc(( ${CatContainer.offsetWidth}px - 85px) / 9)";
+// };
 
-let elements = document.querySelectorAll(".our-instructors .instructor");
-elements = Array.from(elements);
-// // elements.forEach((el, index) => ();
-// let instructorsIndex = 0;
-// // let instructorSign = "+" ;
-// let my = setInterval(function () {
-//   let elements = document.querySelectorAll(".our-instructors .instructor");
-//   elements = Array.from(elements);
-//   let orders = [1, 2, 3, 4];
-//   if (instructorsIndex == 0 && instructorsIndex < orders.length) {
-//     instructorsIndex++;
-//   } else if (instructorsIndex == 3) {
-//     instructorsIndex = 0;
-//   }
-// }, 1000);
+let MYBlogChange_R = document.querySelector(".blogsHead .bullets .right");
+let MYBlogChange_L = document.querySelector(".blogsHead .bullets .left");
+let MyBlog_Bullets = document.querySelectorAll(".blogsHead .bullets > *");
 
-// function Slider_inst(instructorSign) {
-//     if (instructorSign == "+" ) {
-//         orders[instructorsIndex];
-//         instructorsIndex++;
-//     }
-// }
-
-/* How To Set The Width By Js */
-// let inst_body = document.querySelector(".our-instructors .inst-body");
-// console.log(inst_body);
-// inst_body.style.width = `${
-//   elements[0].offsetWidth * elements.length + 20 * (elements.length - 1)
-// }px`;
+function chooseItem(element) {
+  element.addEventListener("click", () => {
+    if (element.innerHTML == "1" || element == MYBlogChange_L) {
+      window.location.href = "blog.html";
+    } else if (element.innerHTML == "2" || element == MYBlogChange_R) {
+      window.location.href = "blog2.html";
+    }
+  });
+}
+MyBlog_Bullets = Array.from(MyBlog_Bullets);
+console.log(MyBlog_Bullets);
+MyBlog_Bullets.forEach((ele) => {
+  console.log(ele.innerHTML);
+  chooseItem(ele);
+});
+let BlogsDiv = [];
+fetch(`../jsonFolders/blogs.json`)
+  .then((response) => response.json())
+  .then((blogs) => {
+    blogs.forEach((ele, index) => {
+      let blog = document.createElement("div");
+      blog.classList.add("blog");
+      let Image = document.createElement("div");
+      Image.classList.add("image");
+      let img = document.createElement("img");
+      img.setAttribute("src", ele.mainImg);
+      Image.appendChild(img);
+      blog.appendChild(Image);
+      let info = document.createElement("div");
+      info.classList.add("info");
+      let Head = document.createElement("h5");
+      Head.innerHTML = ele.name;
+      info.appendChild(Head);
+      let Paragraph = document.createElement("p");
+      Paragraph.innerHTML = ele.title;
+      info.appendChild(Paragraph);
+      let Date = document.createElement("section");
+      Date.innerHTML = ele.date;
+      info.appendChild(Date);
+      blog.appendChild(info);
+      if (document.URL.includes("blog.html") && index < 9) {
+        document.querySelector(".blogsHead .blogs").appendChild(blog);
+      } else if (document.URL.includes("blog2.html") && index >= 9) {
+        document.querySelector(".blogsHead .blogs").appendChild(blog);
+      }
+    });
+    document.querySelectorAll(".blogsHead .blogs > *").forEach((ele) => {
+      console.log(ele);
+      // console.log(ele.childNodes[1].childNodes[1].innerHTML.trim());
+      goToArt(ele);
+    });
+  });
+// console.log(document.querySelectorAll(".blogsHead .blogs > *"));
+function goToArt(blg) {
+  blg.addEventListener("click", () => {
+    sessionStorage.Article = blg.childNodes[1].childNodes[1].innerHTML.trim();
+    window.location.href = "articles.html";
+  });
+}
