@@ -99,6 +99,7 @@ function CreateArticle(CurrentArticle) {
           NeXtButt.addEventListener("click", () => {
             sessionStorage.Article = NeXtArt.innerHTML;
             window.location.reload();
+            window.scrollTo(0, 0);
           });
           let PrevArt = document.querySelector(
             ".articles .contact-blog .the-other .first p"
@@ -114,6 +115,7 @@ function CreateArticle(CurrentArticle) {
           PrevButt.addEventListener("click", () => {
             sessionStorage.Article = PrevArt.innerHTML;
             window.location.reload();
+            window.scrollTo(0, 0);
           });
         }
       });
