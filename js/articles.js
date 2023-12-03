@@ -107,7 +107,7 @@ function CreateArticle(CurrentArticle) {
           let PrevButt = document.querySelector(
             ".articles .contact-blog .the-other .first .left"
           );
-
+          console.log(articles[articles.length - 1].title);
           PrevArt.innerHTML =
             index == 0
               ? articles[articles.length - 1].title
