@@ -2719,7 +2719,7 @@ footer .footer-end .terms span {
         flex-direction: column;
         justify-content: start;
         height: 100%;
-        background-image: url("/images/formBack.jpg");
+        background-image: url("../images/formBack.jpg");
         background-size: contain;
         align-items: start;
         width: 40%;
