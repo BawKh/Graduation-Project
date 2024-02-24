@@ -1,0 +1,90 @@
+[
+    {
+        "title": "What is Python?",
+        "answer_1": "A type of snake",
+        "answer_2": "A high-level programming language",
+        "answer_3": "A popular web browser",
+        "answer_4": "A type of operating system",
+        "right_answer": "A high-level programming language"
+    },
+    {
+        "title": "What is the purpose of indentation in Python?",
+        "answer_1": "It makes the code look neat and tidy",
+        "answer_2": "It has no purpose",
+        "answer_3": "It is used to define code blocks",
+        "answer_4": "It helps in writing comments",
+        "right_answer": "It is used to define code blocks"
+    },
+    {
+        "title": "What does the 'print()' function do in Python?",
+        "answer_1": "It adds numbers",
+        "answer_2": "It displays text on the screen",
+        "answer_3": "It calculates mathematical expressions",
+        "answer_4": "It creates a new file",
+        "right_answer": "It displays text on the screen"
+    }
+    ,
+    {
+        "title": "What is the purpose of 'if' statements in Python?",
+        "answer_1": "To define a function",
+        "answer_2": "To iterate over a list",
+        "answer_3": "To make decisions in the code",
+        "answer_4": "To print text",
+        "right_answer": "To make decisions in the code"
+    }
+    ,
+    {
+        "title": "What is a 'list' in Python?",
+        "answer_1": "A type of snake",
+        "answer_2": "A collection of ordered elements",
+        "answer_3": "A mathematical expression",
+        "answer_4": "A loop",
+        "right_answer": "A collection of ordered elements"
+    }
+    ,
+    {
+        "title": "What is the purpose of a 'for' loop in Python?",
+        "answer_1": "To define a function",
+        "answer_2": "To make decisions in the code",
+        "answer_3": "To iterate over a sequence",
+        "answer_4": "To print text",
+        "right_answer": "To iterate over a sequence"
+    }
+    ,
+    {
+        "title": "What is a 'dictionary' in Python?",
+        "answer_1": "A book with words and their meanings",
+        "answer_2": "A collection of key-value pairs",
+        "answer_3": "A type of data",
+        "answer_4": "A type of loop",
+        "right_answer": "A collection of key-value pairs"
+    }
+    ,
+    {
+        "title": "What is the purpose of the 'import' statement in Python?",
+        "answer_1": "To export code to another file",
+        "answer_2": "To include external modules or libraries",
+        "answer_3": "To print text",
+        "answer_4": "To create a new variable",
+        "right_answer": "To include external modules or libraries"
+    }
+    ,
+    {
+        "title": "What is the output of 3 + 5 in Python?",
+        "answer_1": "8",
+        "answer_2": "35",
+        "answer_3": "53",
+        "answer_4": "15",
+        "right_answer": "8"
+    }
+    ,
+    {
+        "title": "What is the purpose of the 'try' and 'except' blocks in Python?",
+        "answer_1": "To define a function",
+        "answer_2": "To make decisions in the code",
+        "answer_3": "To handle exceptions and errors",
+        "answer_4": "To create a new variable",
+        "right_answer": "To handle exceptions and errors"
+    }
+    
+]

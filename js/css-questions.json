@@ -1,0 +1,155 @@
+[
+    {
+      "title": "What does CSS stand for?",
+      "answer_1": "Cascading Style Sheets",
+      "answer_2": "Computer Style Sheets",
+      "answer_3": "Creative Style Sheets",
+      "answer_4": "Colorful Style Sheets",
+      "right_answer": "Cascading Style Sheets"
+    },
+    {
+      "title": "How do you include an external CSS file in an HTML document?",
+      "answer_1": "<style src='styles.css'>",
+      "answer_2": "<link href='styles.css' rel='stylesheet'>",
+      "answer_3": "<css src='styles.css'>",
+      "answer_4": "<stylesheet>styles.css</stylesheet>",
+      "right_answer": "<link href='styles.css' rel='stylesheet'>"
+    },
+    {
+      "title": "Which CSS property is used to change the text color of an element?",
+      "answer_1": "text-color",
+      "answer_2": "color",
+      "answer_3": "font-color",
+      "answer_4": "text-style",
+      "right_answer": "color"
+    },
+    {
+      "title": "What does the 'Cascading' in 'Cascading Style Sheets' refer to?",
+      "answer_1": "It refers to the flow of water on a webpage.",
+      "answer_2": "It refers to the hierarchical nature of CSS rules.",
+      "answer_3": "It refers to the ability to use cascading water animations.",
+      "answer_4": "It refers to the automatic scrolling of web pages.",
+      "right_answer": "It refers to the hierarchical nature of CSS rules."
+    },
+    {
+      "title": "Which CSS property is used to control the spacing between lines of text?",
+      "answer_1": "line-spacing",
+      "answer_2": "text-spacing",
+      "answer_3": "line-height",
+      "answer_4": "text-line",
+      "right_answer": "line-height"
+    },
+    {
+      "title": "What does the 'box-sizing' property in CSS control?",
+      "answer_1": "The size of the browser window.",
+      "answer_2": "The sizing of an HTML element's box model.",
+      "answer_3": "The color of the border around an element.",
+      "answer_4": "The spacing between elements.",
+      "right_answer": "The sizing of an HTML element's box model."
+    },
+    {
+      "title": "Which CSS selector targets all elements of a specific class?",
+      "answer_1": ".element",
+      "answer_2": "#element",
+      "answer_3": "element.class",
+      "answer_4": "element#class",
+      "right_answer": ".element"
+    },
+    {
+      "title": "What is the purpose of the 'z-index' property in CSS?",
+      "answer_1": "To control the vertical stacking order of elements.",
+      "answer_2": "To change the font size of text.",
+      "answer_3": "To add a background image to an element.",
+      "answer_4": "To adjust the opacity of an element.",
+      "right_answer": "To control the vertical stacking order of elements."
+    },
+    {
+      "title": "Which CSS property is used to create rounded corners on an element?",
+      "answer_1": "border-curve",
+      "answer_2": "border-radius",
+      "answer_3": "corner-radius",
+      "answer_4": "round-corner",
+      "right_answer": "border-radius"
+    },
+    {
+      "title": "What is the purpose of the 'float' property in CSS?",
+      "answer_1": "To add animation effects to elements.",
+      "answer_2": "To control the position of an element within its containing element.",
+      "answer_3": "To change the font style of text.",
+      "answer_4": "To create a shadow effect on elements.",
+      "right_answer": "To control the position of an element within its containing element."
+    },
+    {
+      "title": "What is the CSS pseudo-class used to select the first child of an element?",
+      "answer_1": ":first",
+      "answer_2": ":first-child",
+      "answer_3": ":child",
+      "answer_4": ":first-element",
+      "right_answer": ":first-child"
+    },
+    {
+      "title": "Which property is used to set the background color of an element in CSS?",
+      "answer_1": "background-color",
+      "answer_2": "color",
+      "answer_3": "text-background",
+      "answer_4": "background",
+      "right_answer": "background-color"
+    },
+    {
+      "title": "What is the purpose of the 'position' property in CSS?",
+      "answer_1": "To specify the typeface of text.",
+      "answer_2": "To control the layout and positioning of elements.",
+      "answer_3": "To add padding to an element.",
+      "answer_4": "To change the color of text.",
+      "right_answer": "To control the layout and positioning of elements."
+    },
+    {
+      "title": "Which CSS property is used to create a shadow effect on text?",
+      "answer_1": "shadow-effect",
+      "answer_2": "text-shadow",
+      "answer_3": "text-effect",
+      "answer_4": "shadow-text",
+      "right_answer": "text-shadow"
+    },
+    {
+      "title": "What is the purpose of the 'display' property in CSS?",
+      "answer_1": "To specify the size of an element.",
+      "answer_2": "To control the visibility of an element.",
+      "answer_3": "To change the font family of text.",
+      "answer_4": "To control how an element is rendered in the document.",
+      "right_answer": "To control how an element is rendered in the document."
+    },
+    {
+      "title": "Which CSS property is used to control the width of an element's border?",
+      "answer_1": "border-size",
+      "answer_2": "border-width",
+      "answer_3": "border-style",
+      "answer_4": "border-control",
+      "right_answer": "border-width"
+    },
+    {
+      "title": "What is the purpose of the 'media queries' in CSS?",
+      "answer_1": "To create responsive designs based on the device's characteristics.",
+      "answer_2": "To apply a specific font style to text.",
+      "answer_3": "To control the opacity of elements.",
+      "answer_4": "To create animations on elements.",
+      "right_answer": "To create responsive designs based on the device's characteristics."
+    },
+    {
+      "title": "Which CSS property is used to change the font size of text?",
+      "answer_1": "font-size",
+      "answer_2": "text-size",
+      "answer_3": "size",
+      "answer_4": "font-change",
+      "right_answer": "font-size"
+    },
+    {
+      "title": "What is the purpose of the 'opacity' property in CSS?",
+      "answer_1": "To control the background color of an element.",
+      "answer_2": "To make an element partially transparent.",
+      "answer_3": "To change the font color of text.",
+      "answer_4": "To add a shadow to an element.",
+      "right_answer": "To make an element partially transparent."
+    }
+  ]
+  

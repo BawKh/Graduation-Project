@@ -1,0 +1,202 @@
+:root {
+    --primary-color: #6440fb;
+    --primary-hover-color: #5027fa;
+    --primary-dark-color: #140342;
+    --secondary-color: #00d084;
+    --secondary-hover-color: ##7bdcb5;
+    --dark-color: #212529;
+    --light-color: #ffffff;
+    --light-gray-color: #e4dcfc;
+    --dark-gray-color: #868e96;
+}
+
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Tahoma,Arial';
+}
+
+.quiz-app {
+    /* display: none; */
+    margin: 20px auto;
+    background-color: #f8f8f8;
+    padding: 15px;
+    width: 800px;
+    height: 480px;
+}
+.quiz-app .quiz-info {
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    height: 80px;
+}
+.quiz-app .quiz-info .category {
+    flex:1;
+    font-size: 15px;
+    & span {
+        text-transform: uppercase;
+
+    }
+}
+.quiz-app .quiz-info .count {
+    flex:1;
+    text-align: right;   
+    font-size: 15px;
+}
+.quiz-app .quiz-area {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 15px;
+}
+.quiz-app .quiz-area h2 {
+    margin: 0;
+}
+.quiz-app .answers-area {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 0 20px 20px;
+}
+.quiz-app .answers-area .answer{
+    background-color: #f9f9f9;
+    padding: 15px;
+}
+.quiz-app .answers-area .answer:not(:last-child) {
+    border-bottom: 1px solid #dfdfdf;
+}
+.quiz-app .answers-area .answer input[type="radio"]:checked + label{
+    font-weight: bold;
+    color: #0075ff;
+}
+.quiz-app .answers-area .answer label {
+    cursor: pointer;
+    font-size: 14px;
+    color: #777;
+    position: relative;
+    top: -1px;
+    margin-left: 5px;
+}
+.quiz-app .submit-button {
+    padding: 15px;
+    font-weight: bold;
+    border: 1px solid transparent;
+    display: block;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    background-color: var(--primary-color);
+    cursor: pointer;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+.quiz-app .submit-button:focus {
+    outline: none;
+}
+.quiz-app .submit-button:hover {
+    border: 1px solid var(--primary-hover-color);
+    background-color: white;
+    color: var(--primary-hover-color);
+}
+.quiz-app .bullets-q {
+    border-top: 1px solid #fdfdfd;
+    background-color: #fff;
+    display: flex;
+    padding: 20px;
+}
+.quiz-app .bullets-q .spans {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quiz-app .bullets-q .spans span {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    background-color: #ddd;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.quiz-app .bullets-q .spans span.on {
+    background-color: #0075ff;
+} 
+.quiz-app .results {
+    font-size: 18px;
+}
+.quiz-app .results span{
+    font-weight: bold;
+}
+.quiz-app .results span.bad{
+    color: #dc0a0a;
+}
+.quiz-app .results span.good{
+    color:#007588
+}
+.quiz-app .results span.perfected{
+    color: #0075ff;
+}
+.quiz-app .results .image_container {
+    overflow: hidden;
+    height: 300px;
+    margin-top: 60px;
+}
+.quiz-app .results .image_container img {
+    width: 100%;
+    height: 100%;
+}
+/*tests*/
+.tests {
+    display: flex;
+    position: fixed;
+    align-items: center;
+    gap: 5px;
+    top: 50px;
+    width: 700px;
+    left: 50%;
+    justify-content: space-between;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+.tests span,
+.tests div {
+    padding: 25px;
+    width: 150px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    background-color: #0075ff;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+}
+.tests .active {
+    background-color: #007588;
+}
+@media (max-width: 1286px) {
+    .tests {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}

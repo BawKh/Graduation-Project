@@ -1,0 +1,835 @@
+[
+    {
+        "title": "Crafting the Web: HTML and CSS Essentials for Modern Design",
+        "image": "images/course-img/course-1.png",
+        "categories": ["web development", "Front-End"],
+        "level": "Advanced",
+        "rating": "5.0",
+        "enrolled": "10 enrolled",
+        "duration": "6 Weeks",
+        "instructor": "jonas schmedtmann",
+        "instructorImg": "images/profesours/Jonas.jpg",
+        "lessons": "15 lessons",
+        "quizzes": "3",
+        "overview": "An HTML/CSS course teaches fundamental web development skills for creating and styling web pages.",
+        "learn": [
+            "Basic HTML structure and tags.",
+            "CSS styling properties and selectors.",
+            "Responsive web design principles.",
+            "Layout techniques using CSS.",
+            "Introduction to web typography.",
+            "Working with images and multimedia.",
+            "CSS frameworks like Bootstrap.",
+            "HTML forms and input validation.",
+            "CSS animations and transitions.",
+            "Cross-browser compatibility and debugging."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "A computer/laptop with internet access.",
+            "Text editor software like Sublime Text, VS Code, or Atom.",
+            "Basic understanding of how the web works.",
+            "Eagerness to learn and practice coding.",
+            "Patience and attention to detail."
+        ]
+    },
+    {
+        "title": "C++ Masterclass: From Basics to Advanced Programming Techniques",
+        "image": "images/course-img/course-2.jpg",
+        "categories": ["Programming"],
+        "level": "Intermediate",
+        "rating": "4.0",
+        "enrolled": "7 enrolled",
+        "duration": "4 Weeks",
+        "instructor": "Osama El-Zero",
+        "instructorImg": "images/profesours/elzero.jpg",
+        "lessons": "11 lessons",
+        "quizzes": "2",
+        "overview": "A C++ fundamentals course provides a foundational understanding of C++ programming for beginners.",
+        "learn": [
+            "Basic syntax and structure of C++.",
+            "Variables, data types, and operators.",
+            "Control flow statements: loops and conditionals.",
+            "Functions and parameter passing.",
+            "Arrays and strings.",
+            "Pointers and dynamic memory allocation.",
+            "Object-oriented programming concepts: classes and objects.",
+            "Inheritance and polymorphism.",
+            "File handling in C++.",
+            "Exception handling."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "A computer/laptop with a C++ compiler installed (e.g., GCC, Visual Studio).",
+            "Text editor or Integrated Development Environment (IDE) like Visual Studio Code or Code::Blocks.",
+            "Basic understanding of programming concepts.",
+            "Eagerness to learn and practice coding.",
+            "Patience and perseverance to grasp complex concepts."
+        ]
+    },
+    {
+        "title": "HTML Essentials: Building Blocks of the Web",
+        "image": "images/course-img/course-3.jpg",
+        "categories": ["HTML", "Front-End"],
+        "level": "Beginner",
+        "rating": "3.0",
+        "enrolled": "11 enrolled",
+        "duration": "1 Weeks",
+        "instructor": "Osama El-Zero",
+        "instructorImg": "images/profesours/elzero.jpg",
+        "lessons": "7 lessons",
+        "quizzes": "2",
+        "overview": "An HTML course teaches the fundamentals of creating and structuring content for web pages.",
+        "learn": [
+            "Basic HTML structure and tags.",
+            "CSS styling properties and selectors.",
+            "Responsive web design principles.",
+            "Layout techniques using CSS.",
+            "Introduction to web typography.",
+            "Working with images and multimedia.",
+            "CSS frameworks like Bootstrap.",
+            "HTML forms and input validation.",
+            "CSS animations and transitions.",
+            "Cross-browser compatibility and debugging."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "A computer/laptop with internet access.",
+            "Text editor software like Sublime Text, VS Code, or Atom.",
+            "Basic understanding of how the web works.",
+            "Eagerness to learn and practice coding.",
+            "Patience and attention to detail."
+        ]
+    },
+    {
+        "title": "Mastering JavaScript: From Fundamentals to Advanced Techniques",
+        "image": "images/course-img/course-4.jpg",
+        "categories": ["JavaScript", "web development", "Front-End"],
+        "level": "Advanced",
+        "rating": "2.0",
+        "enrolled": "5 enrolled",
+        "duration": "12 Weeks",
+        "instructor": "jonas schmedtmann",
+        "instructorImg": "images/profesours/Jonas.jpg",
+        "lessons": "10 lessons",
+        "quizzes": "2",
+        "overview": " A JavaScript course covers the fundamentals of programming with JavaScript for web development.",
+        "learn": [
+            "Basic syntax and structure of JavaScript.",
+            "Variables, data types, and operators.",
+            "Control flow statements: loops and conditionals.",
+            "Functions and parameter passing.",
+            "Arrays and array methods.",
+            "Object-oriented programming concepts in JavaScript.",
+            "DOM manipulation and event handling.",
+            "Asynchronous JavaScript: callbacks, promises, and async/await.",
+            "Error handling and debugging techniques.",
+            "Introduction to modern JavaScript frameworks/libraries (e.g., React, Angular, Vue)."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "A computer/laptop with internet access.",
+            "Text editor software like Visual Studio Code, Sublime Text, or Atom.",
+            "Basic understanding of HTML and CSS.",
+            "Eagerness to learn and practice coding.",
+            "Patience and perseverance to grasp complex concepts."
+        ]
+    },
+    {
+        "title": "Learn JavaScript In Arabic",
+        "image": "images/course-img/course-5.jpeg",
+        "categories": ["JavaScript", "Front-End"],
+        "level": "Intermediate",
+        "rating": "1.0",
+        "enrolled": "5 enrolled",
+        "duration": "13 Weeks",
+        "instructor": "Osama El-Zero",
+        "instructorImg": "images/profesours/elzero.jpg",
+        "lessons": "20 lessons",
+        "quizzes": "2",
+        "overview": " A JavaScript course covers the fundamentals of programming with JavaScript for web development.",
+        "learn": [
+            "Basic syntax and structure of JavaScript.",
+            "Variables, data types, and operators.",
+            "Control flow statements: loops and conditionals.",
+            "Functions and parameter passing.",
+            "Arrays and array methods.",
+            "Object-oriented programming concepts in JavaScript.",
+            "DOM manipulation and event handling.",
+            "Asynchronous JavaScript: callbacks, promises, and async/await.",
+            "Error handling and debugging techniques.",
+            "Introduction to modern JavaScript frameworks/libraries (e.g., React, Angular, Vue)."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "A computer/laptop with internet access.",
+            "Text editor software like Visual Studio Code, Sublime Text, or Atom.",
+            "Basic understanding of HTML and CSS.",
+            "Eagerness to learn and practice coding.",
+            "Patience and perseverance to grasp complex concepts."
+        ]
+    },
+    {
+        "title": "React Revolution: Mastering Modern Frontend Development",
+        "image": "images/course-img/course-6.jpg",
+        "categories": ["JavaScript", "ReactJS", "Front-End"],
+        "level": "Advanced",
+        "rating": "3.0",
+        "enrolled": "22 enrolled",
+        "duration": "4 Weeks",
+        "instructor": "jonas schmedtmann",
+        "instructorImg": "images/profesours/Jonas.jpg",
+        "lessons": "11 lessons",
+        "quizzes": "2",
+        "overview": " A React course covers the fundamentals of building dynamic user interfaces using the React JavaScript library.",
+        "learn": [
+            "Setting up React development environment.",
+            "JSX syntax and components in React.",
+            "State management and props.",
+            "Handling events in React.",
+            "Conditional rendering and lists.",
+            "Forms and controlled components.",
+            "React Router for navigation.",
+            "Lifecycle methods in React components.",
+            "Using Hooks for state and effects.",
+            "Introduction to Redux for state management in larger applications."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "A computer/laptop with internet access.",
+            "Node.js installed for package management with npm.",
+            "Text editor like Visual Studio Code, Sublime Text, or Atom.",
+            "Basic understanding of HTML, CSS, and JavaScript.",
+            "Eagerness to learn and practice React concepts."
+        ]
+    },
+    {
+        "title": "Learn Figma - UI/UX Design Essential Training",
+        "image": "images/course-img/course-10.jpg",
+        "categories": ["UI UX", "Front-End"],
+        "level": "Intermediate",
+        "rating": "5.0",
+        "enrolled": "31 enrolled",
+        "duration": "6 Weeks",
+        "instructor": "Osama EL-Henaweey",
+        "instructorImg": "images/profesours/osama.jpg",
+        "lessons": "1 lessons",
+        "quizzes": "2",
+        "overview": "Learn Figma, a collaborative interface design tool, to create stunning digital designs and prototypes efficiently.",
+        "learn": [
+            "Master Figma to become proficient in UX/UI design.",
+            "Add UX/UI design skills to your resume.",
+            "Build and test complete website designs.",
+            "Create UX briefs and personas for effective design planning.",
+            "Generate quick wireframes to visualize design concepts.",
+            "Access downloadable exercise files for hands-on practice.",
+            "Complete a full UX project, from start to finish.",
+            "Learn to design both websites and mobile apps.",
+            "Acquire techniques commonly used by UX professionals."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "Access to Figma software (free to use online).",
+            "No previous design experience required.",
+            "No prior Figma skills needed."
+        ]
+    },
+    {
+        "title": "Node.js Essentials: Building Scalable and High-Performance Web Applications",
+        "image": "images/course-img/course-9.jpg",
+        "categories": ["JavaScript", "Back-End"],
+        "level": "Intermediate",
+        "rating": "4.0",
+        "enrolled": "24 enrolled",
+        "duration": "2 Weeks",
+        "instructor": "jonas schmedtmann",
+        "instructorImg": "images/profesours/Jonas.jpg",
+        "lessons": "7 lessons",
+        "quizzes": "2",
+        "overview": "Dive into Node.js to master server-side JavaScript development and build scalable web applications.",
+        "learn": [
+            "Master Node.js for server-side JavaScript development.",
+            "Enhance your resume with Node.js proficiency.",
+            "Build scalable web applications using Express.js.",
+            "Handle asynchronous operations with callbacks, promises, and async/await.",
+            "Create RESTful APIs for client-server communication.",
+            "Implement authentication and authorization mechanisms.",
+            "Work with databases like MongoDB or MySQL using Mongoose or Sequelize.",
+            "Deploy Node.js applications to production servers.",
+            "Write unit tests and conduct integration testing.",
+            "Explore advanced topics such as WebSocket communication or microservices architecture."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "Access to a computer with internet connectivity.",
+            "Basic knowledge of JavaScript programming language.",
+            "Familiarity with web development concepts like HTML and CSS.",
+            "Node.js installed on your machine (latest stable version recommended).",
+            "Curiosity and willingness to delve into server-side development."
+        ]
+    },
+    {
+        "title": "Flutter Fundamentals: Building Cross-Platform Mobile Apps with Ease",
+        "image": "images/course-img/course-8.jpg",
+        "categories": ["Mobile Apps"],
+        "level": "Intermediate",
+        "rating": "3.0",
+        "enrolled": "24 enrolled",
+        "duration": "4 Weeks",
+        "instructor": "Basel Khial",
+        "instructorImg": "images/profesours/basel.jpg",
+        "lessons": "14 lessons",
+        "quizzes": "2",
+        "overview": " Explore Flutter to develop cross-platform mobile applications with a single codebase, leveraging its robust UI toolkit and hot reload feature.",
+        "learn": [
+            "Master Flutter for cross-platform mobile app development.",
+            "Enhance your resume with Flutter proficiency.",
+            "Develop engaging user interfaces using Flutter's widget library.",
+            "Implement state management solutions like Provider or Bloc pattern.",
+            "Navigate between screens and handle user input efficiently.",
+            "Utilize platform-specific APIs for device features and functionalities.",
+            "Integrate third-party packages for enhanced app capabilities.",
+            "Implement authentication and data storage solutions.",
+            "Optimize app performance and responsiveness.",
+            "Test and debug Flutter apps for ensuring quality and reliability."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "Access to a computer with internet connectivity.",
+            "Basic understanding of programming concepts.",
+            "Familiarity with object-oriented programming languages (e.g., Java, Kotlin, Swift).",
+            "Installation of Flutter SDK and related development tools.",
+            "Enthusiasm to learn and experiment with mobile app development using Flutter."
+        ]
+    },
+    {
+        "title": "Sass Essentials: Streamlining CSS Development with Preprocessing Power",
+        "image": "images/course-img/course-11.jpg",
+        "categories": ["web development", "Front-End"],
+        "level": "Intermediate",
+        "rating": "5.0",
+        "enrolled": "14 enrolled",
+        "duration": "1 Weeks",
+        "instructor": "jonas schmedtmann",
+        "instructorImg": "images/profesours/Jonas.jpg",
+        "lessons": "4 lessons",
+        "quizzes": "2",
+        "overview": "Delve into Node.js and Sass to streamline front-end web development, enabling efficient CSS preprocessing and modularization.",
+        "learn": [
+            "Master Node.js fundamentals for server-side JavaScript development.",
+            "Understand Sass syntax, variables, mixins, and functions.",
+            "Implement Sass in Node.js projects for CSS preprocessing.",
+            "Modularize CSS code using Sass partials and imports.",
+            "Automate Sass compilation using build tools like Gulp or Webpack.",
+            "Enhance CSS organization and maintainability with Sass features.",
+            "Leverage Sass libraries and frameworks for rapid development.",
+            "Optimize CSS output for performance and browser compatibility.",
+            "Integrate Sass into existing Node.js projects seamlessly.",
+            "Explore advanced Sass techniques for dynamic styling and theming."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "Access to a computer with internet connectivity.",
+            "Basic knowledge of HTML, CSS, and JavaScript.",
+            "Installation of Node.js and npm (Node Package Manager).",
+            "Familiarity with command-line interface (CLI) for executing Node.js commands.",
+            "Eagerness to learn and improve front-end development workflows with Sass and Node.js."
+        ]
+    },
+    {
+        "title": "Unlocking Professional Success: Essential Soft Skills for Career Advancement",
+        "image": "images/course-img/course-12.jpg",
+        "categories": ["soft skills"],
+        "level": "Intermediate",
+        "rating": "3.0",
+        "enrolled": "14 enrolled",
+        "duration": "6 Weeks",
+        "instructor": "Osama EL-Henaweey",
+        "instructorImg": "images/profesours/osama.jpg",
+        "lessons": "1 lessons",
+        "quizzes": "2",
+        "overview": "Delve into Node.js and Soft Skills to enhance communication, collaboration, and leadership abilities in the tech industry.",
+        "learn": [
+            "Master effective communication techniques for clear interaction within teams.",
+            "Develop collaboration strategies to foster teamwork and productivity.",
+            "Enhance time management skills to prioritize tasks and meet deadlines.",
+            "Acquire problem-solving approaches for optimizing Node.js workflows.",
+            "Cultivate leadership skills to inspire and motivate project teams.",
+            "Adapt to changes and challenges in Node.js development environments.",
+            "Improve emotional intelligence for managing interpersonal relationships.",
+            "Refine presentation skills to convey ideas confidently to stakeholders.",
+            "Learn networking strategies to build professional relationships in the tech community.",
+            "Practice self-awareness and self-care for maintaining well-being and resilience."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "Access to a computer with internet connectivity.",
+            "Basic understanding of Node.js and software development concepts (recommended).",
+            "Willingness to engage in self-reflection and personal growth.",
+            "Commitment to practicing and implementing soft skills in Node.js projects.",
+            "Openness to feedback and continuous improvement in professional development."
+        ]
+    },
+    {
+        "title": "Data Structures Decoded: Building Efficient Solutions for Real-World Problems",
+        "image": "images/course-img/course-13.jpeg",
+        "categories": ["Programming"],
+        "level": "Intermediate",
+        "rating": "4.0",
+        "enrolled": "10 enrolled",
+        "duration": "8 Weeks",
+        "instructor": "Ahmed Metwally",
+        "instructorImg": "images/profesours/metwally.jpg",
+        "lessons": "18 lessons",
+        "quizzes": "2",
+        "overview": "Delve into Node.js and Data Structures to understand fundamental algorithms and techniques essential for efficient problem-solving and software development.",
+        "learn": [
+            "Master basic algorithm analysis and complexity.",
+            "Learn sorting algorithms like bubble sort, insertion sort, and merge sort.",
+            "Understand searching algorithms including linear search and binary search.",
+            "Explore graph algorithms like breadth-first search and depth-first search.",
+            "Learn dynamic programming techniques.",
+            "Understand greedy algorithms and their applications.",
+            "Explore divide and conquer strategies.",
+            "Learn tree traversal algorithms.",
+            "Understand network flow algorithms.",
+            "Master string algorithms covering pattern matching and string manipulation."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "Access to a computer with internet connectivity.",
+            "Strong understanding of programming fundamentals.",
+            "Proficiency in a programming language like JavaScript, Python, Java, or C++.",
+            "Familiarity with basic data structures like arrays, linked lists, stacks, and queues.",
+            "Dedication to problem-solving and critical thinking."
+        ]
+    },
+    {
+        "title": "The Art of CSS: Designing Dynamic and Engaging User Experiences",
+        "image": "images/course-img/course-14.jpg",
+        "categories": ["Front-End", "web development"],
+        "level": "Beginner",
+        "rating": "3.0",
+        "enrolled": "18 enrolled",
+        "duration": "1 Weeks",
+        "instructor": "Osama El-Zero",
+        "instructorImg": "images/profesours/elzero.jpg",
+        "lessons": "5 lessons",
+        "quizzes": "2",
+        "overview": "An HTML/CSS course teaches fundamental web development skills for creating and styling web pages.",
+        "learn": [
+            "Basic HTML structure and tags.",
+            "CSS styling properties and selectors.",
+            "Responsive web design principles.",
+            "Layout techniques using CSS.",
+            "Introduction to web typography.",
+            "Working with images and multimedia.",
+            "CSS frameworks like Bootstrap.",
+            "HTML forms and input validation.",
+            "CSS animations and transitions.",
+            "Cross-browser compatibility and debugging."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "A computer/laptop with internet access.",
+            "Text editor software like Sublime Text, VS Code, or Atom.",
+            "Basic understanding of how the web works.",
+            "Eagerness to learn and practice coding.",
+            "Patience and attention to detail."
+        ]
+    },
+    {
+        "title": "Database Architecture: Designing for Performance and Reliability",
+        "image": "images/course-img/course-15.jpg",
+        "categories": ["Back-End"],
+        "level": "Beginner",
+        "rating": "4.0",
+        "enrolled": "28 enrolled",
+        "duration": "2 Weeks",
+        "instructor": "El desoqey",
+        "instructorImg": "images/profesours/eldsoqy.jpg",
+        "lessons": "8 lessons",
+        "quizzes": "2",
+        "overview": "Delve into Node.js and Database Management to master principles of database management and build robust, scalable applications.",
+        "learn": [
+            "Understand database fundamentals and relational database management systems (RDBMS).",
+            "Implement CRUD operations using Node.js and databases like MySQL or PostgreSQL.",
+            "Work with NoSQL databases such as MongoDB and understand their advantages and use cases.",
+            "Implement database migrations and version control to manage schema changes.",
+            "Handle database transactions and ensure data integrity.",
+            "Utilize Object-Relational Mapping (ORM) libraries like Sequelize or Mongoose for simplified interactions.",
+            "Implement authentication and authorization mechanisms to secure database access.",
+            "Optimize database performance through indexing, query optimization, and caching strategies.",
+            "Explore database deployment options and best practices for production environments.",
+            "Understand database backup and recovery strategies to ensure data reliability."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "Access to a computer with internet connectivity.",
+            "Basic knowledge of JavaScript and Node.js programming.",
+            "Familiarity with SQL (Structured Query Language) and database concepts.",
+            "Installation of Node.js and a preferred database management system (e.g., MySQL, MongoDB).",
+            "Eagerness to learn and apply database management principles in Node.js applications."
+        ]
+    },
+    {
+        "title": "Python Basics: A Beginner's Guide",
+        "image": "images/course-img/course-16.png",
+        "categories": ["Programming"],
+        "level": "Beginner",
+        "rating": "3.0",
+        "enrolled": "13 enrolled",
+        "duration": "3 Weeks",
+        "instructor": "Osama EL-Henaweey",
+        "instructorImg": "images/profesours/osama.jpg",
+        "lessons": "10 lessons",
+        "quizzes": "2",
+        "overview": "Dive into Node.js and Python integration to leverage the strengths of both languages for efficient backend development.",
+        "learn": [
+            "Integrating Node.js with Python scripts for enhanced functionality.",
+            "Communicating between Node.js and Python processes using inter-process communication (IPC).",
+            "Implementing Python libraries and modules within Node.js applications.",
+            "Leveraging Python's extensive ecosystem for data processing and machine learning tasks.",
+            "Building RESTful APIs with Node.js and integrating Python-based services.",
+            "Automating tasks and workflows with Node.js and Python scripts.",
+            "Handling concurrency and parallelism with asynchronous programming in Node.js and Python.",
+            "Testing and debugging Node.js and Python code together.",
+            "Deploying Node.js and Python applications together in production environments.",
+            "Exploring best practices and patterns for Node.js and Python integration."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "Access to a computer with internet connectivity.",
+            "Proficiency in JavaScript for Node.js development.",
+            "Basic understanding of Python programming language.",
+            "Installation of Node.js and Python on your development environment.",
+            "Eagerness to learn and experiment with Node.js and Python integration for backend development."
+        ]
+    },
+    {
+        "title": "Foundations of Artificial Intelligence",
+        "image": "images/course-img/course-17.webp",
+        "categories": ["AI"],
+        "level": "Intermediate",
+        "rating": "4.0",
+        "enrolled": "13 enrolled",
+        "duration": "3 Weeks",
+        "instructor": "Osama EL-Henaweey",
+        "instructorImg": "images/profesours/osama.jpg",
+        "lessons": "12 lessons",
+        "quizzes": "2",
+        "overview": "Embark on an AI course to delve into the realm of artificial intelligence, learning cutting-edge techniques for problem-solving and automation.",
+        "learn": [
+            "Understand the basics of artificial intelligence and machine learning algorithms.",
+            "Implement supervised, unsupervised, and reinforcement learning techniques.",
+            "Explore deep learning architectures such as neural networks and convolutional neural networks (CNNs).",
+            "Utilize natural language processing (NLP) for text analysis and understanding.",
+            "Implement computer vision algorithms for image recognition and object detection.",
+            "Understand Bayesian networks and probabilistic graphical models.",
+            "Explore optimization techniques for training machine learning models.",
+            "Implement AI applications for robotics and autonomous systems.",
+            "Understand ethical considerations and biases in AI algorithms.",
+            "Explore real-world AI applications in various industries such as healthcare, finance, and transportation."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "Access to a computer with internet connectivity.",
+            "Basic understanding of programming concepts and mathematics (linear algebra, calculus, probability).",
+            "Familiarity with at least one programming language such as Python.",
+            "Commitment to continuous learning and problem-solving.",
+            "Eagerness to explore the vast and evolving field of artificial intelligence."
+        ]
+    },
+    {
+        "title": "Computer Fundamentals: Understanding the Basics",
+        "image": "images/course-img/course-18.png",
+        "categories": ["Programming"],
+        "level": "Beginner",
+        "rating": "4.0",
+        "enrolled": "24 enrolled",
+        "duration": "4 Weeks",
+        "instructor": "Basel Khial",
+        "instructorImg": "images/profesours/basel.jpg",
+        "lessons": "14 lessons",
+        "quizzes": "2",
+        "overview": "Enroll in a Computer Fundamentals course to grasp foundational knowledge essential for understanding computing principles and technology.",
+        "learn": [
+            "Understand the basic components and architecture of a computer system.",
+            "Learn about different types of computer hardware components and their functions.",
+            "Explore operating system concepts and functionalities.",
+            "Understand computer networks and communication protocols.",
+            "Learn about data representation and storage methods.",
+            "Explore software development concepts and programming languages.",
+            "Understand computer security principles and best practices.",
+            "Learn about digital ethics and privacy considerations.",
+            "Explore emerging technologies and trends in computing.",
+            "Gain problem-solving and critical thinking skills relevant to computing."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "Access to a computer with internet connectivity.",
+            "Basic familiarity with using computers and software applications.",
+            "Eagerness to learn and explore foundational concepts in computing.",
+            "No prior technical knowledge or experience required.",
+            "Commitment to engaging in hands-on activities and exercises throughout the course."
+        ]
+    },
+    {
+        "title": "PHP Fundamentals: Building Dynamic Web Applications",
+        "image": "images/course-img/course-19.jpg",
+        "categories": ["Programming"],
+        "level": "Intermediate",
+        "rating": "5.0",
+        "enrolled": "24 enrolled",
+        "duration": "4 Weeks",
+        "instructor": "Basel Khial",
+        "instructorImg": "images/profesours/basel.jpg",
+        "lessons": "14 lessons",
+        "quizzes": "2",
+        "overview": "Master Flutter to develop cross-platform mobile applications with a single codebase, benefiting from its powerful UI toolkit and hot reload feature.",
+        "learn": [
+            "Basic syntax and structure of PHP.",
+            "Variables, data types, and operators in PHP.",
+            "Control structures: loops and conditionals.",
+            "Functions and parameter passing in PHP.",
+            "Arrays and array manipulation.",
+            "Form handling and processing user input.",
+            "Working with databases using PHP (e.g., MySQL).",
+            "Session and cookie management.",
+            "File handling operations in PHP.",
+            "Introduction to object-oriented programming in PHP."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "Basic understanding of HTML and CSS.",
+            "Familiarity with programming concepts.",
+            "Access to a web server with PHP installed (local or remote).",
+            "Text editor or Integrated Development Environment (IDE).",
+            "Eagerness to learn and practice PHP programming."
+        ]
+    },
+    {
+        "title": "Cybersecurity Best Practices: Implementing Effective Security Measures",
+        "image": "images/course-img/course-20.jpeg",
+        "categories": ["Programming"],
+        "level": "Beginner",
+        "rating": "5.0",
+        "enrolled": "13 enrolled",
+        "duration": "3 Weeks",
+        "instructor": "Osama EL-Henaweey",
+        "instructorImg": "images/profesours/osama.jpg",
+        "lessons": "10 lessons",
+        "quizzes": "2",
+        "overview": "Embark on a Cybersecurity course to master strategies for safeguarding digital systems and data against cyber threats.",
+        "learn": [
+            "Understand the fundamentals of cybersecurity, including threat landscape and risk assessment.",
+            "Implement security measures such as firewalls, encryption, and access controls.",
+            "Conduct vulnerability assessments and penetration testing to identify weaknesses.",
+            "Respond to security incidents and manage cyber incidents effectively.",
+            "Develop security policies and procedures to ensure compliance with regulations.",
+            "Secure networks, including wired and wireless networks, against unauthorized access.",
+            "Protect against malware, phishing attacks, and social engineering tactics.",
+            "Monitor and analyze security logs and alerts for suspicious activities.",
+            "Implement secure coding practices to mitigate software vulnerabilities.",
+            "Keep abreast of emerging threats and technologies in the field of cybersecurity."
+        ],
+        "cost":"90",
+        "step1":{
+            "name":["Course Introduction: Overview and Objectives","Understanding Fundamentals: Core Concepts and Principles","Project-Based Learning: Real-World Application and Implementation"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "step2":{
+            "name":["Final Project: Integration and Synthesis of Course Concepts","Special Topics: Exploring Emerging Trends and Technologies","Final Project: Integration and Synthesis of Course Concepts"]
+            ,"link":["","","",""]
+            ,"quiz":""
+        },
+        "requirements": [
+            "Access to a computer with internet connectivity.",
+            "Basic understanding of computer networks and operating systems.",
+            "Familiarity with programming languages such as Python or C.",
+            "Commitment to ethical conduct and adherence to cybersecurity principles.",
+            "Eagerness to learn and stay updated on the latest cybersecurity trends and techniques."
+        ]
+    }
+]

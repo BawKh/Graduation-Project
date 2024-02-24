@@ -1,0 +1,154 @@
+[
+    {
+        "title": "What is JavaScript?",
+        "answer_1": "A type of coffee",
+        "answer_2": "A programming language",
+        "answer_3": "A web browser",
+        "answer_4": "A video game",
+        "right_answer": "A programming language"
+    },
+    {
+        "title": "What is a variable in JavaScript?",
+        "answer_1": "A reserved word",
+        "answer_2": "A container for storing data",
+        "answer_3": "A function declaration",
+        "answer_4": "A type of loop",
+        "right_answer": "A container for storing data"
+    },
+    {
+        "title": "How do you declare a variable in JavaScript?",
+        "answer_1": "using the 'let' keyword",
+        "answer_2": "using the 'var' keyword",
+        "answer_3": "using the 'const' keyword",
+        "answer_4": "All of the above",
+        "right_answer": "All of the above"
+    },
+    {
+        "title": "What is the purpose of the 'if' statement in JavaScript?",
+        "answer_1": "To declare a variable",
+        "answer_2": "To repeat a block of code",
+        "answer_3": "To make a decision in code execution",
+        "answer_4": "To define a function",
+        "right_answer": "To make a decision in code execution"
+    },
+    {
+        "title": "What is an array in JavaScript?",
+        "answer_1": "A data type for storing multiple values",
+        "answer_2": "A type of loop",
+        "answer_3": "A reserved word",
+        "answer_4": "A JavaScript function",
+        "right_answer": "A data type for storing multiple values"
+    },
+    {
+        "title": "How do you access the first element of an array in JavaScript?",
+        "answer_1": "By using the index 0",
+        "answer_2": "By using the index 1",
+        "answer_3": "By using the index -1",
+        "answer_4": "By using the index 'first'",
+        "right_answer": "By using the index 0"
+    },
+    {
+        "title": "What does 'NaN' stand for in JavaScript?",
+        "answer_1": "Not a Name",
+        "answer_2": "Not a Number",
+        "answer_3": "New and Neat",
+        "answer_4": "No Answer Needed",
+        "right_answer": "Not a Number"
+    },
+    {
+        "title": "What is a function in JavaScript?",
+        "answer_1": "A way to style HTML elements",
+        "answer_2": "A block of code that can be called and executed",
+        "answer_3": "A type of loop",
+        "answer_4": "A JavaScript variable",
+        "right_answer": "A block of code that can be called and executed"
+    },
+    {
+        "title": "How do you define a function in JavaScript?",
+        "answer_1": "Using the 'function' keyword followed by a name and parameters",
+        "answer_2": "Using the 'var' keyword",
+        "answer_3": "Using the 'if' statement",
+        "answer_4": "Using the 'let' keyword",
+        "right_answer": "Using the 'function' keyword followed by a name and parameters"
+    },
+    {
+        "title": "What is the purpose of the 'return' statement in a function?",
+        "answer_1": "To exit the function",
+        "answer_2": "To declare a variable",
+        "answer_3": "To specify the function's name",
+        "answer_4": "To specify the function's parameters",
+        "right_answer": "To exit the function"
+    },
+    {
+        "title": "What is an object in JavaScript?",
+        "answer_1": "A data type for storing multiple values",
+        "answer_2": "A type of loop",
+        "answer_3": "A reserved word",
+        "answer_4": "A JavaScript function",
+        "right_answer": "A data type for storing multiple values"
+    },
+    {
+        "title": "How do you access the properties of an object in JavaScript?",
+        "answer_1": "By using square brackets",
+        "answer_2": "By using parentheses",
+        "answer_3": "By using the 'dot' notation",
+        "answer_4": "By using commas",
+        "right_answer": "By using the 'dot' notation"
+    },
+    {
+        "title": "What is an event handler in JavaScript?",
+        "answer_1": "A type of loop",
+        "answer_2": "A function that responds to user actions",
+        "answer_3": "A reserved word",
+        "answer_4": "An HTML element",
+        "right_answer": "A function that responds to user actions"
+    },
+    {
+        "title": "What is a callback function in JavaScript?",
+        "answer_1": "A function that returns a value",
+        "answer_2": "A function passed as an argument to another function",
+        "answer_3": "A function that declares variables",
+        "answer_4": "A function that repeats a block of code",
+        "right_answer": "A function passed as an argument to another function"
+    },
+    {
+        "title": "What does 'JSON' stand for in JavaScript?",
+        "answer_1": "JavaScript Object Notation",
+        "answer_2": "Java Standard Object Notation",
+        "answer_3": "JavaScript Standard Object Notation",
+        "answer_4": "Java Simple Object Notation",
+        "right_answer": "JavaScript Object Notation"
+    },
+    {
+        "title": "What is the purpose of 'try...catch' in JavaScript?",
+        "answer_1": "To declare a variable",
+        "answer_2": "To create a loop",
+        "answer_3": "To handle errors gracefully",
+        "answer_4": "To define a function",
+        "right_answer": "To handle errors gracefully"
+    },
+    {
+        "title": "What is a closure in JavaScript?",
+        "answer_1": "A locked door",
+        "answer_2": "A function that has access to its own scope and the outer scope",
+        "answer_3": "A type of loop",
+        "answer_4": "A reserved word",
+        "right_answer": "A function that has access to its own scope and the outer scope"
+    },
+    {
+        "title": "What is the purpose of the 'this' keyword in JavaScript?",
+        "answer_1": "To declare a variable",
+        "answer_2": "To create a loop",
+        "answer_3": "To refer to the current object",
+        "answer_4": "To define a function",
+        "right_answer": "To refer to the current object"
+    },
+    {
+        "title": "What is asynchronous programming in JavaScript?",
+        "answer_1": "A way to write code that runs sequentially",
+        "answer_2": "A way to write code that runs in parallel",
+        "answer_3": "A way to write code without functions",
+        "answer_4": "A way to write code without variables",
+        "right_answer": "A way to write code that runs in parallel"
+    }
+]
