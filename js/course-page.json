@@ -31,8 +31,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -40,8 +40,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "A computer/laptop with internet access.",
@@ -83,8 +83,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -92,8 +92,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "A computer/laptop with a C++ compiler installed (e.g., GCC, Visual Studio).",
@@ -135,8 +135,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -144,8 +144,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "A computer/laptop with internet access.",
@@ -187,8 +187,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -196,8 +196,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "A computer/laptop with internet access.",
@@ -239,8 +239,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -248,8 +248,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "A computer/laptop with internet access.",
@@ -291,8 +291,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -300,8 +300,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "A computer/laptop with internet access.",
@@ -343,8 +343,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -352,8 +352,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
 
         "requirements": [
@@ -395,8 +395,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -404,8 +404,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "Access to Figma software (free to use online).",
@@ -445,8 +445,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -454,8 +454,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "Access to a computer with internet connectivity.",
@@ -497,8 +497,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -506,8 +506,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "Access to a computer with internet connectivity.",
@@ -549,8 +549,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -558,8 +558,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "Access to a computer with internet connectivity.",
@@ -601,8 +601,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -610,8 +610,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "Access to a computer with internet connectivity.",
@@ -653,8 +653,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -662,8 +662,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "Access to a computer with internet connectivity.",
@@ -705,8 +705,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -714,8 +714,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "A computer/laptop with internet access.",
@@ -757,8 +757,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -766,8 +766,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "Access to a computer with internet connectivity.",
@@ -809,8 +809,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -818,8 +818,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "Access to a computer with internet connectivity.",
@@ -861,8 +861,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -870,8 +870,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "Access to a computer with internet connectivity.",
@@ -913,8 +913,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -922,8 +922,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "Access to a computer with internet connectivity.",
@@ -965,8 +965,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -974,8 +974,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "Basic understanding of HTML and CSS.",
@@ -1017,8 +1017,8 @@
                 "Understanding Fundamentals: Core Concepts and Principles",
                 "Project-Based Learning: Real-World Application and Implementation"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "step2": {
             "name": [
@@ -1026,8 +1026,8 @@
                 "Special Topics: Exploring Emerging Trends and Technologies",
                 "Final Project: Integration and Synthesis of Course Concepts"
             ],
-            "link": ["/vid.html", "/vid.html", "/vid.html", ""],
-            "quiz": "/js-questions.json"
+            "link": ["vid.html", "vid.html", "vid.html", ""],
+            "quiz": "js-questions.json"
         },
         "requirements": [
             "Access to a computer with internet connectivity.",
