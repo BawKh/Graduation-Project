@@ -26,7 +26,7 @@ console.log(Chosen);
 let countDownInterval;
 let RandomArray = [1, 2, 3, 4];
 RandomArray = getRandomItems(RandomArray, 3);
-getQuestions(`../js/${currentUrl}`);
+getQuestions(`js/${currentUrl}`);
 // Get Questions Function
 function getQuestions(links = `../js/${currentUrl}`) {
   let MyRequest = new XMLHttpRequest();
