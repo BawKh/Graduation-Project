@@ -182,11 +182,20 @@ fetch("js/course-page.json")
           butt.innerHTML = "4 Questions";
           par.appendChild(butt);
           li.appendChild(par);
+          // MyTests.forEach((el) => {
+          // el.removeEventListener("click", (event) => {
+          //   handleButtonClick(event);
+          // }); // Remove any existing listeners to prevent duplicates
+          li.addEventListener("click", (event) => {
+            document.location.href = "quiz.html";
+            handleButtonClick(event);
+          });
+          // });
           ul.appendChild(li);
           div3.appendChild(ul);
           div1.appendChild(div3);
           el.appendChild(div1);
-          div1.onclick = () => {
+          div2.onclick = () => {
             if (div1.classList.contains("active")) {
               div1.classList.remove("active");
             } else {

@@ -10,13 +10,13 @@ let countSpan = document.querySelector(".quiz-info .count span");
 let categorySpan = document.querySelector(".quiz-info .category span");
 let bulletsSpan = document.querySelector(".quiz-app .bullets-q .spans");
 let bulletsRemove = document.querySelector(".bullets-q");
-let MyTests = document.querySelectorAll(".quiz-element");
+// let MyTests = document.querySelectorAll(".quiz-element");
 let QuizArea = document.querySelector(".quiz-area");
 let answersArea = document.querySelector(".answers-area");
 let submitButton = document.querySelector(".submit-button");
 let ResultsView = document.querySelector(".results");
 let countDownElement = document.querySelector(".countdown");
-MyTests = Array.from(MyTests);
+// MyTests = Array.from(MyTests);
 
 // Set Options
 let currentIndex = 0;
@@ -97,15 +97,15 @@ function handleButtonClick(event) {
 }
 
 // Add a click event listener to each button only once
-MyTests.forEach((el) => {
-  // el.removeEventListener("click", (event) => {
-  //   handleButtonClick(event);
-  // }); // Remove any existing listeners to prevent duplicates
-  el.addEventListener("click", (event) => {
-    document.location.href = "quiz.html";
-    handleButtonClick(event);
-  });
-});
+// MyTests.forEach((el) => {
+//   // el.removeEventListener("click", (event) => {
+//   //   handleButtonClick(event);
+//   // }); // Remove any existing listeners to prevent duplicates
+//   el.addEventListener("click", (event) => {
+//     document.location.href = "quiz.html";
+//     handleButtonClick(event);
+//   });
+// });
 
 function createBullets(num) {
   countSpan.innerHTML = num;
