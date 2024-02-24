@@ -233,13 +233,13 @@ function showResults(count) {
     let image_res = document.createElement("img");
     if (theRightAnswers >= count / 2 && theRightAnswers < count) {
       theResults = `<span class="good">Good</span> ${theRightAnswers} From ${count}`;
-      image_res.setAttribute("src", "../images/good.jpg");
+      image_res.setAttribute("src", "images/good.jpg");
     } else if (theRightAnswers === count) {
       theResults = `<span class="perfected">Perfect</span> ${theRightAnswers} From ${count}`;
-      image_res.setAttribute("src", "../images/perfect.jpg");
+      image_res.setAttribute("src", "images/perfect.jpg");
     } else {
       theResults = `<span class="bad">Bad</span> ${theRightAnswers} From ${count}`;
-      image_res.setAttribute("src", "../images/bad.jpg");
+      image_res.setAttribute("src", "images/bad.jpg");
     }
     image_con.appendChild(image_res);
     ResultsView.innerHTML = theResults;
