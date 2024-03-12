@@ -222,6 +222,7 @@ function handleBullets() {
 
 // showResults function
 function showResults(count) {
+<<<<<<< HEAD
     let theResults;
     if (currentIndex === count) {
         QuizArea.style.display = "none";
@@ -250,6 +251,26 @@ function showResults(count) {
         let quizInfo = document.querySelector(".quiz-info");
         console.log(quizInfo.offsetHeight);
         ResultsView.style.height = `375px`;
+=======
+  let theResults;
+  if (currentIndex === count) {
+    QuizArea.style.display = "none";
+    answersArea.style.display = "none";
+    submitButton.style.display = "none";
+    bulletsRemove.style.display = "none";
+    let image_con = document.createElement("div");
+    image_con.classList.add("image_container");
+    let image_res = document.createElement("img");
+    if (theRightAnswers >= count / 2 && theRightAnswers < count) {
+      theResults = `<span class="good">Good</span> ${theRightAnswers} From ${count}`;
+      image_res.setAttribute("src", "images/good.jpg");
+    } else if (theRightAnswers === count) {
+      theResults = `<span class="perfected">Perfect</span> ${theRightAnswers} From ${count}`;
+      image_res.setAttribute("src", "images/perfect.jpg");
+    } else {
+      theResults = `<span class="bad">Bad</span> ${theRightAnswers} From ${count}`;
+      image_res.setAttribute("src", "images/bad.jpg");
+>>>>>>> 2562b73cbc6db52331fe5124147e6f8005e9bbd6
     }
 }
 
