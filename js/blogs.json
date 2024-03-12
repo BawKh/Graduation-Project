@@ -1,313 +1,382 @@
 [
     {
-        "title":"Startup Business Team And Online Education Service",
-        "name":"Basel",
-        "date":"Dec 1 2023",
-        "mainImg":"images/bolgs/blog1.jpg",
-        "startQ": "What makes a good brand book?",
-        "paragraph1": "Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Diam phasellus vestibulum lorem sed risus ultricies. Magna sit amet purus gravida quis blandit. Arcu cursus vitae congue mauris. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Semper risus in hendrerit gravida rutrum quisque non. At urna condimentum mattis pellentesque id nibh tortor. A erat nam at lectus urna duis convallis convallis tellus. Sit amet mauris commodo quis imperdiet massa. Vitae congue eu consequat ac felis.",
+        "title": "Securing Web Applications: Best Practices and Techniques",
+        "name": "Osama",
+        "date": "March 12, 2024",
+        "mainImg": "images/bolgs/web-application-security.png",
+        "startQ": "Why is web application security important, and how can developers ensure their applications are secure?",
+        "paragraph1": "Web application security is crucial for protecting sensitive data and preventing unauthorized access or attacks. Developers must follow best practices and employ various techniques to enhance the security of their web applications.",
         "Points" : {
-            "point1":"Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida.",
-            "point2":"At urna condimentum mattis pellentesque id nibh. Laoreet non curabitur",
-            "point3":"Magna etiam tempor orci eu lobortis elementum.",
-            "point4":"ibendum est ultricies integer quis. Semper eget duis at tellus."
+            "point1": "Input validation: Sanitizing and validating user input to prevent SQL injection and XSS attacks",
+            "point2": "Authentication and authorization: Implementing secure authentication mechanisms and role-based access control (RBAC)",
+            "point3": "Session management: Using secure session handling techniques to prevent session hijacking",
+            "point4": "Data encryption: Encrypting sensitive data in transit and at rest to protect it from unauthorized access"
         },
-        "externalArticle":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto aut deserunt porro omnis perferendis, reprehenderit enim at fuga ducimus aliquid accusamus velit nam, corrupti amet quas laborum sed illo?",
-        "paragraph2": "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph3": "Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
+        "externalArticle": "https://builtin.com/software-engineering-perspectives/web-application-security",
+        "paragraph2": "To learn more about securing web applications, explore this comprehensive guide.",
+        "paragraph3": "By implementing robust security measures and staying informed about the latest threats and vulnerabilities, developers can build web applications that are resilient to attacks and protect user data.",
         "image1Content": {
-            "src":"images/bolgs/blog2.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
+            "src": "images/bolgs/input-validation.jpg",
+            "paragraph": "Input validation prevents attackers from injecting malicious code into web applications."
         },
         "image2Content": {
-            "src":"images/bolgs/blog5.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
+            "src": "images/bolgs/authentication-authorization.jpg",
+            "paragraph": "Authentication and authorization ensure that only authorized users have access to sensitive resources in web applications."
         },
-        "paragraph4":"Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph5":"Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "Author": {
-            "img" : "images/testimonials/basel.jpg",
-            "article" : "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus."
-        }
-    },
-    {
-        "title":"10 marketing trends that you should be prepared for in 2022",
-        "name":"Osama",
-        "date":"Dec 1 2023",
-        "mainImg":"images/bolgs/blog2.jpg",
-        "startQ": "What makes a good brand book?",
-        "paragraph1": "Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Diam phasellus vestibulum lorem sed risus ultricies. Magna sit amet purus gravida quis blandit. Arcu cursus vitae congue mauris. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Semper risus in hendrerit gravida rutrum quisque non. At urna condimentum mattis pellentesque id nibh tortor. A erat nam at lectus urna duis convallis convallis tellus. Sit amet mauris commodo quis imperdiet massa. Vitae congue eu consequat ac felis.",
-        "Points" : {
-            "point1":"Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida.",
-            "point2":"At urna condimentum mattis pellentesque id nibh. Laoreet non curabitur",
-            "point3":"Magna etiam tempor orci eu lobortis elementum.",
-            "point4":"ibendum est ultricies integer quis. Semper eget duis at tellus."
-        },
-        "externalArticle":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto aut deserunt porro omnis perferendis, reprehenderit enim at fuga ducimus aliquid accusamus velit nam, corrupti amet quas laborum sed illo?",
-        "paragraph2": "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph3": "Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "image1Content": {
-            "src":"images/bolgs/blog2.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "image2Content": {
-            "src":"images/bolgs/blog5.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "paragraph4":"Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph5":"Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
+        "paragraph4": "Securing web applications is an ongoing process that requires vigilance and proactive measures to mitigate security risks effectively.",
+        "paragraph5": "What security measure do you consider the most important for web applications?",
         "Author": {
             "img" : "images/testimonials/testimonial-person-3.jpg",
-            "article" : "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus."
+            "article" : "Osama is a cybersecurity expert and web developer passionate about helping organizations improve their web application security posture. She believes that proactive security measures are essential for protecting against evolving cyber threats."
         }
     },
     {
-        "title":"How to design a simple, yet unique and memorable brand identity",
-        "name":"Basel",
-        "date":"Dec 1 2023",
-        "mainImg":"images/bolgs/plog3.jpeg",
-        "startQ": "What makes a good brand book?",
-        "paragraph1": "Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Diam phasellus vestibulum lorem sed risus ultricies. Magna sit amet purus gravida quis blandit. Arcu cursus vitae congue mauris. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Semper risus in hendrerit gravida rutrum quisque non. At urna condimentum mattis pellentesque id nibh tortor. A erat nam at lectus urna duis convallis convallis tellus. Sit amet mauris commodo quis imperdiet massa. Vitae congue eu consequat ac felis.",
+        "title": "Introduction to DevOps: Continuous Integration and Deployment",
+        "name": "Jonas",
+        "date": "March 12, 2024",
+        "mainImg": "images/bolgs/devops-ci-cd.webp",
+        "startQ": "What is DevOps, and how does it improve software development processes?",
+        "paragraph1": "DevOps is a set of practices that aims to automate and integrate the processes between software development and IT operations. Continuous Integration (CI) and Continuous Deployment (CD) are two key practices in DevOps that improve software quality, reduce time to market, and increase efficiency.",
         "Points" : {
-            "point1":"Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida.",
-            "point2":"At urna condimentum mattis pellentesque id nibh. Laoreet non curabitur",
-            "point3":"Magna etiam tempor orci eu lobortis elementum.",
-            "point4":"ibendum est ultricies integer quis. Semper eget duis at tellus."
+            "point1": "Continuous Integration: Automating the process of merging code changes into a shared repository and running automated tests",
+            "point2": "Continuous Deployment: Automating the process of deploying code changes to production environments after passing tests"
         },
-        "externalArticle":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto aut deserunt porro omnis perferendis, reprehenderit enim at fuga ducimus aliquid accusamus velit nam, corrupti amet quas laborum sed illo?",
-        "paragraph2": "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph3": "Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
+        "externalArticle": "https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment",
+        "paragraph2": "To learn more about DevOps practices such as CI/CD, explore this comprehensive guide.",
+        "paragraph3": "Implementing CI/CD pipelines streamlines the software development lifecycle and enables teams to deliver software updates more frequently and reliably.",
         "image1Content": {
-            "src":"images/bolgs/blog2.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
+            "src": "images/bolgs/ci-process.jpg",
+            "paragraph": "Continuous Integration ensures that code changes are regularly integrated and tested, leading to early detection of bugs."
         },
         "image2Content": {
-            "src":"images/bolgs/blog5.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
+            "src": "images/bolgs/cd-process.jpg",
+            "paragraph": "Continuous Deployment automates the deployment process, reducing manual errors and accelerating the delivery of features to users."
         },
-        "paragraph4":"Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph5":"Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
+        "paragraph4": "By adopting DevOps practices such as Continuous Integration and Deployment, organizations can achieve faster release cycles, improved collaboration between teams, and higher software quality.",
+        "paragraph5": "How has DevOps transformed your organization's software development processes?",
         "Author": {
-            "img" : "images/testimonials/basel.jpg",
-            "article" : "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus."
-        }
-    },
-    {
-        "title":"Increasing engagement with Instagram and facebook",
-        "name":"Osama",
-        "date":"Dec 1 2023",
-        "mainImg":"images/bolgs/blog4.jpg",
-        "startQ": "What makes a good brand book?",
-        "paragraph1": "Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Diam phasellus vestibulum lorem sed risus ultricies. Magna sit amet purus gravida quis blandit. Arcu cursus vitae congue mauris. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Semper risus in hendrerit gravida rutrum quisque non. At urna condimentum mattis pellentesque id nibh tortor. A erat nam at lectus urna duis convallis convallis tellus. Sit amet mauris commodo quis imperdiet massa. Vitae congue eu consequat ac felis.",
-        "Points" : {
-            "point1":"Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida.",
-            "point2":"At urna condimentum mattis pellentesque id nibh. Laoreet non curabitur",
-            "point3":"Magna etiam tempor orci eu lobortis elementum.",
-            "point4":"ibendum est ultricies integer quis. Semper eget duis at tellus."
-        },
-        "externalArticle":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto aut deserunt porro omnis perferendis, reprehenderit enim at fuga ducimus aliquid accusamus velit nam, corrupti amet quas laborum sed illo?",
-        "paragraph2": "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph3": "Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "image1Content": {
-            "src":"images/bolgs/blog2.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "image2Content": {
-            "src":"images/bolgs/blog5.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "paragraph4":"Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph5":"Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "Author": {
-            "img" : "images/testimonials/testimonial-person-3.jpg",
-            "article" : "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus."
-        }
-    },
-    {
-        "title":"Engendering a culture of professional development",
-        "name":"Basel",
-        "date":"Dec 1 2023",
-        "mainImg":"images/bolgs/blog5.jpg",
-        "startQ": "What makes a good brand book?",
-        "paragraph1": "Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Diam phasellus vestibulum lorem sed risus ultricies. Magna sit amet purus gravida quis blandit. Arcu cursus vitae congue mauris. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Semper risus in hendrerit gravida rutrum quisque non. At urna condimentum mattis pellentesque id nibh tortor. A erat nam at lectus urna duis convallis convallis tellus. Sit amet mauris commodo quis imperdiet massa. Vitae congue eu consequat ac felis.",
-        "Points" : {
-            "point1":"Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida.",
-            "point2":"At urna condimentum mattis pellentesque id nibh. Laoreet non curabitur",
-            "point3":"Magna etiam tempor orci eu lobortis elementum.",
-            "point4":"ibendum est ultricies integer quis. Semper eget duis at tellus."
-        },
-        "externalArticle":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto aut deserunt porro omnis perferendis, reprehenderit enim at fuga ducimus aliquid accusamus velit nam, corrupti amet quas laborum sed illo?",
-        "paragraph2": "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph3": "Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "image1Content": {
-            "src":"images/bolgs/blog2.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "image2Content": {
-            "src":"images/bolgs/blog5.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "paragraph4":"Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph5":"Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "Author": {
-            "img" : "images/testimonials/basel.jpg",
-            "article" : "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus."
-        }
-    },
-    {
-        "title":"Education in Our Lives: We Can Change the Future",
-        "name":"Osama",
-        "date":"Dec 1 2023",
-        "mainImg":"images/bolgs/blog6.jpg",
-        "startQ": "What makes a good brand book?",
-        "paragraph1": "Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Diam phasellus vestibulum lorem sed risus ultricies. Magna sit amet purus gravida quis blandit. Arcu cursus vitae congue mauris. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Semper risus in hendrerit gravida rutrum quisque non. At urna condimentum mattis pellentesque id nibh tortor. A erat nam at lectus urna duis convallis convallis tellus. Sit amet mauris commodo quis imperdiet massa. Vitae congue eu consequat ac felis.",
-        "Points" : {
-            "point1":"Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida.",
-            "point2":"At urna condimentum mattis pellentesque id nibh. Laoreet non curabitur",
-            "point3":"Magna etiam tempor orci eu lobortis elementum.",
-            "point4":"ibendum est ultricies integer quis. Semper eget duis at tellus."
-        },
-        "externalArticle":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto aut deserunt porro omnis perferendis, reprehenderit enim at fuga ducimus aliquid accusamus velit nam, corrupti amet quas laborum sed illo?",
-        "paragraph2": "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph3": "Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "image1Content": {
-            "src":"images/bolgs/blog2.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "image2Content": {
-            "src":"images/bolgs/blog5.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "paragraph4":"Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph5":"Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "Author": {
-            "img" : "images/testimonials/testimonial-person-3.jpg",
-            "article" : "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus."
-        }
-    },
-    {
-        "title":"How to be more creative: 10+ cool tips to find inspiration everywhere",
-        "name":"Basel",
-        "date":"Dec 1 2023",
-        "mainImg":"images/bolgs/blog2.jpg",
-        "startQ": "What makes a good brand book?",
-        "paragraph1": "Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Diam phasellus vestibulum lorem sed risus ultricies. Magna sit amet purus gravida quis blandit. Arcu cursus vitae congue mauris. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Semper risus in hendrerit gravida rutrum quisque non. At urna condimentum mattis pellentesque id nibh tortor. A erat nam at lectus urna duis convallis convallis tellus. Sit amet mauris commodo quis imperdiet massa. Vitae congue eu consequat ac felis.",
-        "Points" : {
-            "point1":"Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida.",
-            "point2":"At urna condimentum mattis pellentesque id nibh. Laoreet non curabitur",
-            "point3":"Magna etiam tempor orci eu lobortis elementum.",
-            "point4":"ibendum est ultricies integer quis. Semper eget duis at tellus."
-        },
-        "externalArticle":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto aut deserunt porro omnis perferendis, reprehenderit enim at fuga ducimus aliquid accusamus velit nam, corrupti amet quas laborum sed illo?",
-        "paragraph2": "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph3": "Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "image1Content": {
-            "src":"images/bolgs/blog2.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "image2Content": {
-            "src":"images/bolgs/blog5.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "paragraph4":"Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph5":"Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "Author": {
-            "img" : "images/testimonials/basel.jpg",
-            "article" : "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus."
-        }
-    },
-    {
-        "title":"10 interesting programming languages you should be paying attention to",
-        "name":"Osama",
-        "date":"Dec 1 2023",
-        "mainImg":"images/bolgs/blog1.jpg",
-        "startQ": "What makes a good brand book?",
-        "paragraph1": "Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Diam phasellus vestibulum lorem sed risus ultricies. Magna sit amet purus gravida quis blandit. Arcu cursus vitae congue mauris. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Semper risus in hendrerit gravida rutrum quisque non. At urna condimentum mattis pellentesque id nibh tortor. A erat nam at lectus urna duis convallis convallis tellus. Sit amet mauris commodo quis imperdiet massa. Vitae congue eu consequat ac felis.",
-        "Points" : {
-            "point1":"Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida.",
-            "point2":"At urna condimentum mattis pellentesque id nibh. Laoreet non curabitur",
-            "point3":"Magna etiam tempor orci eu lobortis elementum.",
-            "point4":"ibendum est ultricies integer quis. Semper eget duis at tellus."
-        },
-        "externalArticle":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto aut deserunt porro omnis perferendis, reprehenderit enim at fuga ducimus aliquid accusamus velit nam, corrupti amet quas laborum sed illo?",
-        "paragraph2": "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph3": "Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "image1Content": {
-            "src":"images/bolgs/blog2.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "image2Content": {
-            "src":"images/bolgs/blog5.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "paragraph4":"Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph5":"Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "Author": {
-            "img" : "images/testimonials/testimonial-person-3.jpg",
-            "article" : "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus."
-        }
-    },
-    {
-        "title":"6 great design trends that are making a come-back in 2023",
-        "name":"Basel",
-        "date":"Dec 1 2023",
-        "mainImg":"images/bolgs/plog3.jpeg",
-        "startQ": "What makes a good brand book?",
-        "paragraph1": "Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Diam phasellus vestibulum lorem sed risus ultricies. Magna sit amet purus gravida quis blandit. Arcu cursus vitae congue mauris. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Semper risus in hendrerit gravida rutrum quisque non. At urna condimentum mattis pellentesque id nibh tortor. A erat nam at lectus urna duis convallis convallis tellus. Sit amet mauris commodo quis imperdiet massa. Vitae congue eu consequat ac felis.",
-        "Points" : {
-            "point1":"Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida.",
-            "point2":"At urna condimentum mattis pellentesque id nibh. Laoreet non curabitur",
-            "point3":"Magna etiam tempor orci eu lobortis elementum.",
-            "point4":"ibendum est ultricies integer quis. Semper eget duis at tellus."
-        },
-        "externalArticle":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto aut deserunt porro omnis perferendis, reprehenderit enim at fuga ducimus aliquid accusamus velit nam, corrupti amet quas laborum sed illo?",
-        "paragraph2": "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph3": "Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "image1Content": {
-            "src":"images/bolgs/blog2.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "image2Content": {
-            "src":"images/bolgs/blog5.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "paragraph4":"Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph5":"Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "Author": {
-            "img" : "images/testimonials/basel.jpg",
-            "article" : "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus."
-        }
-    },
-    {
-        "title":"6 great design trends that are making a come-back in 2023",
-        "name":"Basel",
-        "date":"Dec 1 2023",
-        "mainImg":"images/bolgs/plog3.jpeg",
-        "startQ": "What makes a good brand book?",
-        "paragraph1": "Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Diam phasellus vestibulum lorem sed risus ultricies. Magna sit amet purus gravida quis blandit. Arcu cursus vitae congue mauris. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Semper risus in hendrerit gravida rutrum quisque non. At urna condimentum mattis pellentesque id nibh tortor. A erat nam at lectus urna duis convallis convallis tellus. Sit amet mauris commodo quis imperdiet massa. Vitae congue eu consequat ac felis.",
-        "Points" : {
-            "point1":"Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida.",
-            "point2":"At urna condimentum mattis pellentesque id nibh. Laoreet non curabitur",
-            "point3":"Magna etiam tempor orci eu lobortis elementum.",
-            "point4":"ibendum est ultricies integer quis. Semper eget duis at tellus."
-        },
-        "externalArticle":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto aut deserunt porro omnis perferendis, reprehenderit enim at fuga ducimus aliquid accusamus velit nam, corrupti amet quas laborum sed illo?",
-        "paragraph2": "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph3": "Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "image1Content": {
-            "src":"images/bolgs/blog2.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "image2Content": {
-            "src":"images/bolgs/blog5.jpg",
-            "paragraph":"Donec purus posuere nullam lacus aliquam."
-        },
-        "paragraph4":"Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus, lectus nullam viverra. Bibendum dignissim tortor, phasellus pellentesque commodo, turpis vel eu. Donec consectetur ipsum nibh lobortis elementum mus velit tincidunt elementum. Ridiculus eu convallis eu mattis iaculis et, in dolor. Sem libero, tortor suspendisse et, purus euismod posuere sit. Risus dui ut viverra venenatis ipsum tincidunt non, proin. Euismod pharetra sit ac nisi. Erat lacus, amet quisque urna faucibus. Rhoncus praesent faucibus rhoncus nec adipiscing tristique sed facilisis velit.",
-        "paragraph5":"Neque nulla porta ut urna rutrum. Aliquam cursus arcu tincidunt mus dictum sit euismod cum id. Dictum integer ultricies arcu fermentum fermentum sem consectetur. Consectetur eleifend aenean eu neque euismod amet parturient turpis vitae. Faucibus ipsum felis et duis fames.",
-        "Author": {
-            "img" : "images/testimonials/basel.jpg",
-            "article" : "Donec purus posuere nullam lacus aliquam egestas arcu. A egestas a, tellus massa, ornare vulputate. Erat enim eget laoreet ullamcorper lectus aliquet nullam tempus id. Dignissim convallis quam aliquam rhoncus."
+            "img" : "images/profesours/Jonas.jpg",
+            "article" : "Jonas is a DevOps engineer with extensive experience in implementing CI/CD pipelines. He is passionate about helping teams adopt DevOps practices to streamline their software development processes and deliver value to customers faster."
         }
     }
+    
+    ,
+    {
+        "title": "Exploring Machine Learning Basics with Python and TensorFlow",
+        "name": "Basel",
+        "date": "March 12, 2024",
+        "mainImg": "images/bolgs/machine-learning-python-tensorflow.jpg",
+        "startQ": "What are the foundational concepts of machine learning, and how can Python and TensorFlow be used for implementation?",
+        "paragraph1": "Machine learning is a subset of artificial intelligence that focuses on developing algorithms that can learn from data and make predictions or decisions. Python, with its rich ecosystem of libraries, and TensorFlow, a popular machine learning framework, provide powerful tools for implementing machine learning algorithms.",
+        "Points" : {
+            "point1": "Data preprocessing: Cleaning and preparing data for model training",
+            "point2": "Model training: Using algorithms to learn patterns and make predictions",
+            "point3": "Model evaluation: Assessing the performance of machine learning models",
+            "point4": "Deployment: Integrating machine learning models into production systems"
+        },
+        "externalArticle": "https://www.coursera.org/learn/introduction-to-machine-learning-with-python",
+        "paragraph2": "To dive deeper into machine learning basics with Python and TensorFlow, explore this comprehensive guide.",
+        "paragraph3": "Python and TensorFlow provide developers with the tools and flexibility to implement a wide range of machine learning algorithms, from simple linear regression to complex deep learning models.",
+        "image1Content": {
+            "src": "images/bolgs/python-machine-learning.jpg",
+            "paragraph": "Python's simplicity and readability make it an ideal language for implementing machine learning algorithms."
+        },
+        "image2Content": {
+            "src": "images/bolgs/tensorflow-logo.png",
+            "paragraph": "TensorFlow is an open-source machine learning framework developed by Google for building and deploying machine learning models."
+        },
+        "paragraph4": "By exploring machine learning basics with Python and TensorFlow, developers can gain a solid foundation in building and deploying machine learning models for various applications.",
+        "paragraph5": "What machine learning algorithm or application interests you the most?",
+        "Author": {
+            "img" : "images/testimonials/basel.jpg",
+            "article" : "Basel is a data scientist and machine learning enthusiast. She enjoys exploring new algorithms and techniques and sharing her knowledge with others interested in the field of machine learning."
+        }
+    }
+    ,
+    {
+        "title": "Exploring Blockchain Technology: Concepts and Applications",
+        "name": "Basel",
+        "date": "March 12, 2024",
+        "mainImg": "images/bolgs/blockchain-technology.jpg",
+        "startQ": "What is blockchain, and how does it revolutionize traditional systems?",
+        "paragraph1": "Blockchain is a distributed ledger technology that enables secure and transparent record-keeping of transactions across a network of computers. It revolutionizes traditional systems by decentralizing authority, enhancing transparency, and reducing the risk of fraud or manipulation.",
+        "Points" : {
+            "point1": "Decentralization: Eliminates the need for intermediaries and central authorities",
+            "point2": "Immutability: Ensures that once recorded, data on the blockchain cannot be altered or tampered with",
+            "point3": "Transparency: Provides visibility into transaction history and ownership records",
+            "point4": "Smart contracts: Self-executing contracts with predefined rules and conditions"
+        },
+        "externalArticle": "https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full",
+        "paragraph2": "To learn more about blockchain technology and its applications, explore this comprehensive guide.",
+        "paragraph3": "Blockchain technology has diverse applications beyond cryptocurrencies, including supply chain management, voting systems, and digital identity verification.",
+        "image1Content": {
+            "src": "images/bolgs/blockchain-decentralization.webp",
+            "paragraph": "Blockchain's decentralized nature eliminates single points of failure and increases system resilience."
+        },
+        "image2Content": {
+            "src": "images/bolgs/smart-contracts.webp",
+            "paragraph": "Smart contracts enable automated and secure execution of transactions based on predefined conditions."
+        },
+        "paragraph4": "By exploring blockchain technology and its potential applications, individuals and businesses can harness its benefits to innovate and transform various industries.",
+        "paragraph5": "Which industry do you think will benefit the most from blockchain technology, and why?",
+        "Author": {
+            "img" : "images/testimonials/basel.jpg",
+            "article" : "Basel is a blockchain enthusiast and technology evangelist. He is passionate about exploring the transformative potential of blockchain technology and educating others about its capabilities and applications."
+        }
+    }
+    ,
+    {
+        "title": "Introduction to Cloud Computing: AWS, Azure, and Google Cloud Platform",
+        "name": "Basel",
+        "date": "March 12, 2024",
+        "mainImg": "images/bolgs/cloud-computing.jpg",
+        "startQ": "What is cloud computing, and why is it important for modern businesses?",
+        "paragraph1": "Cloud computing is the delivery of computing services over the internet, including storage, processing power, and software. It enables businesses to access resources on-demand, scale dynamically, and reduce infrastructure costs.",
+        "Points" : {
+            "point1": "Scalability: Ability to scale resources up or down based on demand",
+            "point2": "Flexibility: Access to a wide range of services and deployment options",
+            "point3": "Cost-effectiveness: Pay-as-you-go pricing model reduces upfront costs",
+            "point4": "Reliability: Redundant infrastructure and data backup ensure high availability"
+        },
+        "externalArticle": "https://www.channelinsider.com/cloud-computing/aws-vs-azure-vs-google-cloud/",
+        "paragraph2": "To delve deeper into cloud computing and its benefits, explore this comprehensive guide.",
+        "paragraph3": "Cloud computing providers such as AWS, Azure, and Google Cloud Platform offer a variety of services, including compute, storage, networking, and machine learning, to meet the diverse needs of businesses.",
+        "image1Content": {
+            "src": "images/bolgs/cloud-scalability.jpg",
+            "paragraph": "Cloud computing enables businesses to scale resources elastically in response to changing demands."
+        },
+        "image2Content": {
+            "src": "images/bolgs/cloud-services.jpg",
+            "paragraph": "Cloud computing providers offer a wide range of services, from infrastructure to platform and software solutions."
+        },
+        "paragraph4": "By embracing cloud computing, businesses can gain a competitive edge by improving agility, reducing time to market, and optimizing costs.",
+        "paragraph5": "How has cloud computing transformed your organization's IT infrastructure?",
+        "Author": {
+            "img" : "images/testimonials/basel.jpg",
+            "article" : "Basel is a cloud architect and technology writer. She is passionate about helping businesses leverage cloud computing to drive innovation, improve efficiency, and achieve strategic goals."
+        }
+    },
+    {
+        "title": "Building Scalable and Secure RESTful APIs with Node.js",
+        "name": "Osama",
+        "date": "March 12, 2024",
+        "mainImg": "images/bolgs/restful-apis-nodejs.jpg",
+        "startQ": "How can developers build scalable and secure RESTful APIs using Node.js?",
+        "paragraph1": "RESTful APIs (Representational State Transfer) have become the standard for building web services due to their simplicity and scalability. Node.js, with its non-blocking I/O model and event-driven architecture, is well-suited for building high-performance and scalable APIs.",
+        "Points" : {
+            "point1": "Express.js: Lightweight and flexible web framework for Node.js",
+            "point2": "Middleware: Enhances security and functionality of APIs",
+            "point3": "Authentication and authorization: Ensures secure access to API endpoints",
+            "point4": "Scalability: Horizontal scaling using load balancers and microservices architecture"
+        },
+        "externalArticle": "https://www.toptal.com/nodejs/secure-rest-api-in-nodejs",
+        "paragraph2": "To learn more about building RESTful APIs with Node.js, check out this comprehensive guide.",
+        "paragraph3": "Node.js provides developers with the tools and flexibility to create robust and secure RESTful APIs that can handle high volumes of traffic and user requests.",
+        "image1Content": {
+            "src": "images/bolgs/express-js.svg",
+            "paragraph": "Express.js is a popular web framework for building RESTful APIs with Node.js."
+        },
+        "image2Content": {
+            "src": "images/bolgs/security-nodejs.jpg",
+            "paragraph": "Ensuring security in Node.js APIs involves implementing authentication, authorization, and input validation."
+        },
+        "paragraph4": "By following best practices and leveraging the features of Node.js, developers can create scalable and secure RESTful APIs that meet the demands of modern web applications.",
+        "paragraph5": "What challenges have you faced when building RESTful APIs with Node.js?",
+        "Author": {
+            "img" : "images/testimonials/testimonial-person-3.jpg",
+            "article" : "Osama is a full-stack developer specializing in Node.js and RESTful API development. He enjoys building scalable and secure web applications and sharing his knowledge with the developer community."
+        }
+    }
+    ,
+    {
+        "title": "Understanding Database Management Systems: SQL vs. NoSQL",
+        "name": "Jonas",
+        "date": "March 12, 2024",
+        "mainImg": "images/bolgs/database-management.webp",
+        "startQ": "What are the differences between SQL and NoSQL databases?",
+        "paragraph1": "Database management systems (DBMS) play a crucial role in storing, organizing, and managing data for applications. Two primary categories of DBMS are SQL (relational) and NoSQL (non-relational) databases.",
+        "Points" : {
+            "point1": "SQL databases: Structured Query Language for data manipulation and retrieval",
+            "point2": "NoSQL databases: Flexible data models and scalability for modern applications"
+        },
+        "externalArticle": "https://www.datacamp.com/blog/sql-vs-nosql-databases",
+        "paragraph2": "To learn more about database management systems, explore this comprehensive guide.",
+        "paragraph3": "Understanding the differences between SQL and NoSQL databases helps developers choose the right database solution based on their project requirements and scalability needs.",
+        "image1Content": {
+            "src": "images/bolgs/sql-database.jpg",
+            "paragraph": "SQL databases use a structured schema and are suitable for applications with complex relationships between data."
+        },
+        "image2Content": {
+            "src": "images/bolgs/nosql-database.jpg",
+            "paragraph": "NoSQL databases offer flexibility and scalability, making them ideal for modern web and mobile applications."
+        },
+        "paragraph4": "By understanding the strengths and weaknesses of SQL and NoSQL databases, developers can make informed decisions when designing and implementing database solutions.",
+        "paragraph5": "Which database management system do you prefer for your projects, and why?",
+        "Author": {
+            "img" : "images/profesours/Jonas.jpg",
+            "article" : "Jonas is a database architect with extensive experience in SQL and NoSQL databases. He enjoys sharing his knowledge and helping developers optimize their database solutions for performance and scalability."
+        }
+    }
+    ,
+    {
+        "title": "Getting Started with Web Development: HTML, CSS, and JavaScript",
+        "name": "Osama",
+        "date": "March 12, 2024",
+        "mainImg": "images/bolgs/web-development.avif",
+        "startQ": "What are the essential technologies for web development?",
+        "paragraph1": "Web development involves building websites or web applications using various technologies. Three fundamental technologies for web development are HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript.",
+        "Points" : {
+            "point1": "HTML: Defines the structure of web content",
+            "point2": "CSS: Styles the presentation of web content",
+            "point3": "JavaScript: Adds interactivity and dynamic behavior to web pages"
+        },
+        "externalArticle": "http://devdoc.net/web/developer.mozilla.org/en-US/docs/Learn/tutorial/How_to_build_a_web_site.html",
+        "paragraph2": "To kickstart your journey into web development, check out this beginner's guide.",
+        "paragraph3": "Learning HTML, CSS, and JavaScript is essential for aspiring web developers to create visually appealing and interactive websites.",
+        "image1Content": {
+            "src": "images/bolgs/html-css-js.jpg",
+            "paragraph": "HTML, CSS, and JavaScript are the building blocks of modern web development."
+        },
+        "image2Content": {
+            "src": "images/bolgs/web-development-process.jpg",
+            "paragraph": "Understanding the web development process helps developers create functional and user-friendly websites."
+        },
+        "paragraph4": "Start learning HTML, CSS, and JavaScript today, and embark on an exciting journey into the world of web development!",
+        "paragraph5": "What aspect of web development are you most interested in learning?",
+        "Author": {
+            "img" : "images/testimonials/testimonial-person-3.jpg",
+            "article" : "Osama is a web developer and educator passionate about empowering others to learn web development skills. She enjoys creating tutorials and resources to make complex concepts accessible to beginners."
+        }
+    }
+    ,
+    {
+        "title": "Demystifying Asynchronous Programming with Async/Await",
+        "name": "Osama",
+        "date": "March 12, 2024",
+        "mainImg": "images/bolgs/async-await.png",
+        "startQ": "What is asynchronous programming, and how does it differ from synchronous programming?",
+        "paragraph1": "Asynchronous programming allows tasks to execute independently, enabling non-blocking behavior and improved performance in applications. It differs from synchronous programming, where tasks execute sequentially, potentially causing bottlenecks and slowdowns.",
+        "Points" : {
+            "point1": "Non-blocking I/O operations",
+            "point2": "Improved responsiveness and scalability",
+            "point3": "Avoidance of thread blocking and deadlocks",
+            "point4": "Enhanced performance in web applications"
+        },
+        "externalArticle": "https://blog.logrocket.com/understanding-asynchronous-javascript/",
+        "paragraph2": "To learn more about asynchronous programming with async/await, explore this comprehensive guide.",
+        "paragraph3": "Async/await simplifies asynchronous programming in JavaScript by allowing developers to write asynchronous code in a synchronous style, making it easier to understand and maintain.",
+        "image1Content": {
+            "src": "images/bolgs/non-blocking-io.png",
+            "paragraph": "Non-blocking I/O operations allow multiple tasks to execute concurrently without waiting for each other."
+        },
+        "image2Content": {
+            "src": "images/bolgs/scalability.webp",
+            "paragraph": "Asynchronous programming improves application responsiveness and scalability, especially in web applications with high concurrency."
+        },
+        "paragraph4": "By mastering asynchronous programming techniques such as async/await, developers can create highly responsive and scalable applications that provide a better user experience.",
+        "paragraph5": "What challenges have you encountered while working with asynchronous programming?",
+        "Author": {
+            "img" : "images/testimonials/testimonial-person-3.jpg",
+            "article" : "Osama is a web developer specializing in JavaScript and asynchronous programming. He enjoys simplifying complex concepts and helping others become proficient in modern web development techniques."
+        }
+    }
+    
+    ,
+    {
+        "title": "Mastering Data Structures and Algorithms",
+        "name": "Basel",
+        "date": "March 12, 2024",
+        "mainImg": "images/bolgs/data-structures-algorithms.webp",
+        "startQ": "Why are data structures and algorithms essential for programmers?",
+        "paragraph1": "Data structures and algorithms form the foundation of computer science and software development. They are essential for solving complex problems efficiently and writing high-performance code.",
+        "Points" : {
+            "point1": "Optimized data storage and retrieval",
+            "point2": "Efficient manipulation of data",
+            "point3": "Improved code performance and scalability",
+            "point4": "Ability to solve a wide range of computational problems"
+        },
+        "externalArticle": "https://www.educative.io/blog/data-structures-algorithms",
+        "paragraph2": "To delve deeper into mastering data structures and algorithms, explore this comprehensive guide.",
+        "paragraph3": "Developers proficient in data structures and algorithms are better equipped to tackle real-world challenges and contribute to innovative solutions.",
+        "image1Content": {
+            "src": "images/bolgs/data-structures.jpg",
+            "paragraph": "Understanding data structures enables efficient organization and manipulation of data."
+        },
+        "image2Content": {
+            "src": "images/bolgs/algorithms.jpg",
+            "paragraph": "Algorithms provide step-by-step procedures for solving computational problems."
+        },
+        "paragraph4": "By mastering data structures and algorithms, programmers can enhance their problem-solving skills and become more effective in designing and implementing software solutions.",
+        "paragraph5": "What specific data structure or algorithm fascinates you the most?",
+        "Author": {
+            "img" : "images/testimonials/basel.jpg",
+            "article" : "Basel is a software engineer passionate about algorithms and data structures. He enjoys sharing his knowledge and helping others improve their coding skills."
+        }
+    }
+    ,
+        {
+            "title": "Introduction to Python Programming",
+            "name": "Jonas",
+            "date": "March 12, 2024",
+            "mainImg": "images/bolgs/python-programming.png",
+            "startQ": "What makes Python a popular programming language?",
+            "paragraph1": "Python is a high-level programming language known for its simplicity and readability. It is widely used for web development, data analysis, artificial intelligence, and more.",
+            "Points" : {
+                "point1": "Clear and concise syntax",
+                "point2": "Rich ecosystem of libraries and frameworks",
+                "point3": "Cross-platform compatibility",
+                "point4": "Strong community support"
+            },
+            "externalArticle": "https://www.geeksforgeeks.org/introduction-to-python/",
+            "paragraph2": "For a comprehensive introduction to Python programming, check out this beginner's guide.",
+            "paragraph3": "Learning Python opens up numerous opportunities for developers due to its versatility and widespread adoption.",
+            "image1Content": {
+                "src": "images/bolgs/python-syntax.png",
+                "paragraph": "Python's clear and concise syntax makes it easy to learn and read."
+            },
+            "image2Content": {
+                "src": "images/bolgs/python-libraries.jpg",
+                "paragraph": "Python's rich ecosystem of libraries and frameworks accelerates development."
+            },
+            "paragraph4": "Start your journey into Python programming today and unlock the potential of this versatile language!",
+            "paragraph5": "What aspect of Python programming interests you the most?",
+            "Author": {
+                "img" : "images/profesours/Jonas.jpg",
+                "article" : "John Doe is a software engineer with over a decade of experience in the tech industry. He is passionate about sharing his knowledge and insights to help aspiring developers grow their skills."
+            }
+        },
+    {
+        "title": "5 Essential Programming Concepts Every Developer Should Know",
+        "name": "Jonas",
+        "date": "March 12, 2024",
+        "mainImg": "images/bolgs/programming-concepts.jpg!w700wp",
+        "startQ": "What are the fundamental programming concepts that every developer should master?",
+        "paragraph1": "Programming is a vast field that requires continuous learning and adaptation. While there are countless programming concepts, mastering a few essential ones can significantly enhance a developer's skills and understanding of software development.",
+        "Points" : {
+            "point1": "Variables and Data Types: Understanding how to declare variables and work with different data types is fundamental to programming. Whether it's integers, strings, or boolean values, knowing how to manipulate data is crucial for writing effective code.",
+            "point2": "Control Structures: Control structures such as loops and conditional statements are essential for controlling the flow of a program. Developers need to understand when and how to use these structures to execute code conditionally or repetitively.",
+            "point3": "Functions and Methods: Functions and methods allow developers to organize code into reusable blocks. Understanding how to define and call functions, as well as pass arguments and return values, is vital for writing modular and maintainable code.",
+            "point4": "Object-Oriented Programming (OOP): OOP is a programming paradigm based on the concept of objects, which encapsulate data and behavior. Concepts such as classes, objects, inheritance, and polymorphism are fundamental to understanding OOP and building complex software systems.",
+            "point5": "Debugging and Problem Solving: Debugging is an essential skill for any developer. Being able to identify and fix errors in code efficiently is crucial for maintaining and enhancing software. Additionally, developers should possess strong problem-solving skills to approach programming challenges systematically."
+        },
+        "externalArticle": "https://dzone.com/articles/10-essential-programming-concepts-every-developer",
+        "paragraph2": "To delve deeper into these concepts, check out this comprehensive guide on programming fundamentals.",
+        "paragraph3": "In addition to mastering these core concepts, staying updated with the latest technologies and trends in the programming world is essential for every developer's career growth.",
+        "image1Content": {
+            "src": "images/bolgs/variables-and-data-types.png",
+            "paragraph": "Understanding variables and data types is fundamental to programming."
+        },
+        "image2Content": {
+            "src": "images/bolgs/oop-concepts.jpg",
+            "paragraph": "Object-Oriented Programming (OOP) is a fundamental concept for building complex software systems."
+        },
+        "paragraph4": "By continually learning and practicing these essential programming concepts, developers can become more proficient in writing efficient, scalable, and maintainable code.",
+        "paragraph5": "What other programming concepts do you consider essential for developers to master?",
+        "Author": {
+            "img" : "images/profesours/Jonas.jpg",
+            "article" : "John Doe is a software engineer with over a decade of experience in the tech industry. He is passionate about sharing his knowledge and insights to help aspiring developers grow their skills."
+        }
+    }
+    
     
 ]
