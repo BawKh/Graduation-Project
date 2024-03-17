@@ -666,6 +666,7 @@ fieldset {
 .post-title {
     font-size: 1.6rem;
     font-weight: 500;
+    height: 72px;
     margin-bottom: 1rem;
     color: var(--primary-dark-color);
     margin-top: 0;
