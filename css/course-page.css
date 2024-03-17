@@ -585,6 +585,7 @@ fieldset {
 }
 .post-image {
     width: 100%;
+    height: 160px;
     transition: all 0.3s ease-in-out;
 }
 .post-image:hover {
