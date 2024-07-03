@@ -1,0 +1,210 @@
+:root {
+    --primary-color: #6440fb;
+    --primary-hover-color: #5027fa;
+    --primary-dark-color: #140342;
+    --secondary-color: #00d084;
+    --secondary-hover-color: ##7bdcb5;
+    --dark-color: #212529;
+    --light-color: #ffffff;
+    --light-gray-color: #e4dcfc;
+    --dark-gray-color: #868e96;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.main-container {
+    display: grid;
+    grid-template-columns: 22fr 78fr;
+}
+.profile-container {
+    background-color: var(--primary-dark-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+}
+.profile-img {
+    margin: 5rem auto;
+}
+.profile-img img {
+    width: 12rem;
+    background-color: var(--light-color);
+    border-radius: 50%;
+    padding: 0;
+}
+.list-container {
+    font-size: 1.6rem;
+    margin-left: 1.6rem;
+    list-style: none;
+}
+.list-item {
+    color: var(--light-gray-color);
+    margin-bottom: 3rem;
+}
+.icon {
+    font-size: 1.6rem;
+    margin-right: 1rem;
+    color: var(--light-gray-color);
+}
+header {
+    margin: 2rem 4rem;
+}
+.hero-heading {
+    font-size: 3rem;
+    color: #212529;
+}
+.hero-heading span {
+    display: block;
+    color: var(--primary-dark-color);
+    position: relative;
+    z-index: 1;
+}
+.hero-heading span::after {
+    display: block;
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    width: 30%;
+    z-index: -1;
+    opacity: 1;
+    transform: scale(1.07, 1.05) skewX(-15deg);
+    background-image: linear-gradient(
+        to top left,
+        var(--primary-hover-color),
+        var(--secondary-color)
+    );
+}
+
+.section-content h1 {
+    font-size: 1.6rem;
+    color: var(--primary-dark-color);
+    margin: 2rem 4rem;
+}
+.section-content {
+    border-top: 1px solid var(--light-gray-color);
+    height: 570px;
+    display: flex;
+    flex-direction: column;
+}
+.related-cours {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 3rem;
+    margin: 2rem;
+}
+.related-cour {
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+    border-radius: 5px;
+    /* padding: 1rem; */
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.3);
+}
+.post-image {
+    width: 100%;
+    height: 160px;
+    transition: all 0.3s ease-in-out;
+}
+.post-image:hover {
+    transform: scale(1.1);
+}
+.post-content {
+    padding: 1rem;
+}
+.post-insimg img {
+    width: 4rem;
+}
+.card-header__title {
+    font-weight: 700;
+    font-size: 14px;
+    color: #8fa6b3;
+}
+.post-rate {
+    display: flex;
+    align-items: center;
+}
+#post-ratings .filter-button,
+.post-rate {
+    color: #ffd43b;
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    display: flex;
+    justify-self: flex-start;
+}
+.post-footer {
+    /* text-align: right;
+    margin-top: auto; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    border-bottom: 1px #e1e8ed9c solid;
+    margin: 1rem 0;
+}
+
+.post-level {
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    display: inline-block;
+    -webkit-font-smoothing: subpixel-antialiased;
+    color: var(--dark-gray-color);
+    margin-bottom: 1rem;
+}
+.post-insimg {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 1rem;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: var(--dark-gray-color);
+    margin-top: auto;
+}
+.post-insimg img {
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 1rem;
+}
+.post {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 300px;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    border: 1px solid #e1e8ed;
+    border-radius: 4px;
+    margin-top: 12px;
+    min-height: 300px;
+    height: auto;
+}
+.post-title {
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    height: 7.2rem;
+    color: var(--primary-dark-color);
+    margin-top: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

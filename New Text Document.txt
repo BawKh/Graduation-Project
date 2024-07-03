@@ -1,0 +1,1 @@
+mongodb+srv://osamaelhenaweey2024:osos2024@ososdb.y8cpkrg.mongodb.net/?retryWrites=true&w=majority&appName=ososdb
